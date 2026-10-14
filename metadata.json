@@ -1,0 +1,6 @@
+{
+  "name": "Kok Sen Restaurant (國成餐室)",
+  "description": "Authentic Michelin Bib Gourmand Cantonese Zi Char restaurant in Keong Saik Road, Singapore. Famed for Big Prawn Hor Fun, Claypot Liver, Har Cheong Gai, and roaring wok hei.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,2359 @@
+{
+  "source_archive": "KOK SEN MENU I(1).zip",
+  "source_photo_count": 100,
+  "matched_menu_items": 51,
+  "processing": "Proportional resize to at most 1600px, never upscaled; initial WebP quality 92. Empty transparent canvas margins trimmed while preserving all nontransparent pixels, followed by lossless encoding. No visible photograph content is cropped. No background synthesis, retouching, recolouring or AI generation.",
+  "unresolved_ambience": "Existing storefront, interior, street and wok/chef images remain from the supplied website project. No replacements for those scenes were present in the menu ZIP.",
+  "photos": [
+    {
+      "index": 0,
+      "file": "86a04e1625144312b321174f90c8515e_1631680480970290506 copy.jpeg",
+      "width": 750,
+      "height": 750,
+      "bytes": 123037,
+      "transparent": false,
+      "source_sha256": "1a781e5cf735be5ad9687d763afb707740095de833ce092d5700e71897712e38",
+      "web_file": "src/assets/client-menu/000-86a04e1625144312b321174f90c8515e-1631680480970290506-copy.webp",
+      "web_sha256": "4c3b906dd3996a21d17f5df6bf26f324ce85cac14104e12e039845949d0b7671",
+      "web_dimensions": [
+        750,
+        750
+      ],
+      "web_bytes": 95796,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review."
+    },
+    {
+      "index": 1,
+      "file": "GOLDEN DRAGON CHICKEN.png",
+      "width": 1920,
+      "height": 1354,
+      "bytes": 2443679,
+      "transparent": true,
+      "source_sha256": "0e42a1304156c603cce7bd81de00aab3b191a47cd3dee01627852870e3b822a3",
+      "web_file": "src/assets/client-menu/001-golden-dragon-chicken.webp",
+      "web_sha256": "8b8ca57348806638ba201b33ad7385478a741b2a6387a19e82caa1036bd9ebb9",
+      "web_dimensions": [
+        1471,
+        1039
+      ],
+      "web_bytes": 967944,
+      "menu_code": "CH2",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        124,
+        75,
+        1595,
+        1114
+      ]
+    },
+    {
+      "index": 2,
+      "file": "beef/BackgroundEraser_20260708_130239904.png",
+      "width": 1920,
+      "height": 1607,
+      "bytes": 2518181,
+      "transparent": true,
+      "source_sha256": "8a722983dd502fec434fb21530a45e2ea19860a2136a0e6efff450dfdc304b08",
+      "web_file": "src/assets/client-menu/002-beef-backgrounderaser-20260708-130239904.webp",
+      "web_sha256": "db7b84f6fa691711bfb4002a0791ed99154e2cc596ceafe4f6ec31fae1c129b0",
+      "web_dimensions": [
+        1550,
+        1257
+      ],
+      "web_bytes": 993306,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        25,
+        37,
+        1575,
+        1294
+      ]
+    },
+    {
+      "index": 3,
+      "file": "beef/IMG_20260708_130727.png",
+      "width": 1098,
+      "height": 894,
+      "bytes": 1058718,
+      "transparent": true,
+      "source_sha256": "c0fbbf10059e6643940bd434ec31bbd2f75b77c658cd051109890a6118a24d71",
+      "web_file": "src/assets/client-menu/003-beef-img-20260708-130727.webp",
+      "web_sha256": "4326739be2c7fae80cec316eedbd806487f025072a4fdd0327cd62d3de45560e",
+      "web_dimensions": [
+        1006,
+        849
+      ],
+      "web_bytes": 512972,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        33,
+        1,
+        1039,
+        850
+      ]
+    },
+    {
+      "index": 4,
+      "file": "beef/IMG_20260708_130823.png",
+      "width": 972,
+      "height": 764,
+      "bytes": 902600,
+      "transparent": true,
+      "source_sha256": "4854a5b2fb14c7ad69f51bdb5fd27b29499ec5f63e5afec687f4c4153f0676f7",
+      "web_file": "src/assets/client-menu/004-beef-img-20260708-130823.webp",
+      "web_sha256": "d27b3b5d0ac648fafcb2b1287a4507de2604e323b44c0cdc4762cc42990477c8",
+      "web_dimensions": [
+        929,
+        734
+      ],
+      "web_bytes": 478086,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        24,
+        24,
+        953,
+        758
+      ]
+    },
+    {
+      "index": 5,
+      "file": "beef/IMG_20260708_131630.png",
+      "width": 1440,
+      "height": 1072,
+      "bytes": 1713936,
+      "transparent": true,
+      "source_sha256": "b9bda103177514b49ff018933343f97511198d012e93e9eab30d5a896eb1a8bc",
+      "web_file": "src/assets/client-menu/005-beef-img-20260708-131630.webp",
+      "web_sha256": "5618dd889116c75f10abf4928293ee6b3bdb9d3ca96d52a11ada830c19b8049a",
+      "web_dimensions": [
+        1364,
+        1039
+      ],
+      "web_bytes": 908498,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        46,
+        20,
+        1410,
+        1059
+      ]
+    },
+    {
+      "index": 6,
+      "file": "chicken/BackgroundEraser_20260914_133153162 (1).png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1181090,
+      "transparent": true,
+      "source_sha256": "cc9b01d0c71eadee81e4ec9e3fa04890026e32b985dc1d50fdeeb65032baaea0",
+      "web_file": "src/assets/client-menu/006-chicken-backgrounderaser-20260914-133153162-1.webp",
+      "web_sha256": "7d03953c02394b8240971418d10601af75d4a19cb83874b58e6b88dbf2a94159",
+      "web_dimensions": [
+        992,
+        654
+      ],
+      "web_bytes": 462752,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        301,
+        120,
+        1293,
+        774
+      ]
+    },
+    {
+      "index": 7,
+      "file": "chicken/BackgroundEraser_20260914_135145933.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1803190,
+      "transparent": true,
+      "source_sha256": "2e457ffbcaafda91d9167d561312cd321cb066af05ccc5913e719740984e7d02",
+      "web_file": "src/assets/client-menu/007-chicken-backgrounderaser-20260914-135145933.webp",
+      "web_sha256": "59e2fc8da4667e143852e0be232ee40183faf81853b1fb1b488ab1a68629c942",
+      "web_dimensions": [
+        1326,
+        721
+      ],
+      "web_bytes": 740510,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        143,
+        141,
+        1469,
+        862
+      ]
+    },
+    {
+      "index": 8,
+      "file": "chicken/Untitled-4.png",
+      "width": 16278,
+      "height": 8890,
+      "bytes": 1870481,
+      "transparent": true,
+      "source_sha256": "73ecf22fe69346af88bfa401f41d88faee84d3360104130538bc3bd122000567",
+      "web_file": "src/assets/client-menu/008-chicken-untitled-4.webp",
+      "web_sha256": "aee7259c8e8cf677ee3b588828963ed8d518a6d46f39585f5ad8ab9d41ef4209",
+      "web_dimensions": [
+        1600,
+        874
+      ],
+      "web_bytes": 224934,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is CH1 Har Cheong Gai (prawn paste chicken wings)."
+    },
+    {
+      "index": 9,
+      "file": "chicken/claypot chicken.png",
+      "width": 791,
+      "height": 506,
+      "bytes": 613654,
+      "transparent": true,
+      "source_sha256": "d80f05e19a8a162cfd6437d450323086b82fa68dd239559ecf645a46d96879df",
+      "web_file": "src/assets/client-menu/009-chicken-claypot-chicken.webp",
+      "web_sha256": "142a4777155e728fdceb365786ae1711a64e6d7dc0c9f273b1fa965c52f3d0de",
+      "web_dimensions": [
+        752,
+        492
+      ],
+      "web_bytes": 352654,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        0,
+        14,
+        752,
+        506
+      ]
+    },
+    {
+      "index": 10,
+      "file": "chicken/rooasted chicken.png",
+      "width": 772,
+      "height": 568,
+      "bytes": 548500,
+      "transparent": true,
+      "source_sha256": "b467490e598bcec1c3e2f4168c1a5b63771586cdd40f541526c37320c4a94943",
+      "web_file": "src/assets/client-menu/010-chicken-rooasted-chicken.webp",
+      "web_sha256": "826412ec1cf619929353091432d752ef5ccc530e7b8963bc7ce29c8798f9fbd4",
+      "web_dimensions": [
+        770,
+        568
+      ],
+      "web_bytes": 294590,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        0,
+        0,
+        770,
+        568
+      ]
+    },
+    {
+      "index": 11,
+      "file": "crab/BLACK PEPPER.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2350142,
+      "transparent": true,
+      "source_sha256": "4dfccaefaaecc76b525118bb7beadeb62f7566d2ac321d8a7b69ccbbb6f1733f",
+      "web_file": "src/assets/client-menu/011-crab-black-pepper.webp",
+      "web_sha256": "6d3907556c84ce7f2130bd482b745287d25a1465b7a973ff2a88cae2600653a2",
+      "web_dimensions": [
+        1371,
+        890
+      ],
+      "web_bytes": 989864,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        128,
+        0,
+        1499,
+        890
+      ]
+    },
+    {
+      "index": 12,
+      "file": "crab/CHIILI.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1142582,
+      "transparent": true,
+      "source_sha256": "fed1ee9f003cb7dedae92496a0eb5feb0e0644baec0862cdbcd8d541174e1c49",
+      "web_file": "src/assets/client-menu/012-crab-chiili.webp",
+      "web_sha256": "02b629638db2bf7d0d7a45441a15025a45c3318ee29aa85480a20e34d69241e0",
+      "web_dimensions": [
+        1066,
+        613
+      ],
+      "web_bytes": 455130,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        240,
+        227,
+        1306,
+        840
+      ]
+    },
+    {
+      "index": 13,
+      "file": "crab/SALTED EGG.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1928631,
+      "transparent": true,
+      "source_sha256": "bd766f28c3d823c4e75de925563905373538b9470b0cf963bf0e93cfffa6c2e6",
+      "web_file": "src/assets/client-menu/013-crab-salted-egg.webp",
+      "web_sha256": "dd6e3a0b153683ace32c71ec2eab94b1dd2cc6d384f629d70de69ad8034688d2",
+      "web_dimensions": [
+        1123,
+        888
+      ],
+      "web_bytes": 797052,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        251,
+        0,
+        1374,
+        888
+      ]
+    },
+    {
+      "index": 14,
+      "file": "crab/SAMBAL .png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1481828,
+      "transparent": true,
+      "source_sha256": "a2ada611ad3a02eda87012c21851bfa6b8ed2817735091ae05569b8c59d8c0f1",
+      "web_file": "src/assets/client-menu/014-crab-sambal.webp",
+      "web_sha256": "2c94f6a026ab6453bea6bd37196d1704c855d012fd7d39bd955e65a8b7cdaf45",
+      "web_dimensions": [
+        1097,
+        759
+      ],
+      "web_bytes": 598566,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        184,
+        76,
+        1281,
+        835
+      ]
+    },
+    {
+      "index": 15,
+      "file": "crab/SPRING ONION.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1998285,
+      "transparent": true,
+      "source_sha256": "76ff32ab71d7c254505386e6c83362881ab50921c9e71df5916a1eff927ba891",
+      "web_file": "src/assets/client-menu/015-crab-spring-onion.webp",
+      "web_sha256": "2491d6b848d5a0382443c6e5484d1a2b469d0a8091f8c0924caaf71c03db83ef",
+      "web_dimensions": [
+        1320,
+        855
+      ],
+      "web_bytes": 864784,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        119,
+        35,
+        1439,
+        890
+      ]
+    },
+    {
+      "index": 16,
+      "file": "egg/FURONG.JPG",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 11143215,
+      "transparent": false,
+      "source_sha256": "e6e208c00654ebfb54b5cc240c6d94d1fbb8202c36e1d08961c80b8dcb649461",
+      "web_file": "src/assets/client-menu/016-egg-furong.webp",
+      "web_sha256": "dfd5a5ff5d88355711595beaf137fdaf8ba2cad2815cc3aa4f556b0dd41c7b82",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 752098,
+      "menu_code": "O3",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 17,
+      "file": "egg/MINCED.JPG",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 10659059,
+      "transparent": false,
+      "source_sha256": "90b9731a9c878041e188d486b642c9cb560c5aa860e5027777e1c5fa4d2742d2",
+      "web_file": "src/assets/client-menu/017-egg-minced.webp",
+      "web_sha256": "e40003e3fb0c349ce4af97152ff31b95685dee31d717942b6c54ea605ee82964",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 652436,
+      "menu_code": "O4",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 18,
+      "file": "egg/Picture1.png",
+      "width": 429,
+      "height": 397,
+      "bytes": 259531,
+      "transparent": true,
+      "source_sha256": "219b2dab11a466ad417ea43b2ebc1a3ac2df4d0aba6e54f92e4de06daa112ad6",
+      "web_file": "src/assets/client-menu/018-egg-picture1.webp",
+      "web_sha256": "ac9d06228de9c65c3782df6525317e71dd7705e0618ce4d7b2d69554e143d27a",
+      "web_dimensions": [
+        397,
+        375
+      ],
+      "web_bytes": 143704,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is O5 Prawns Omelette.",
+      "transparent_margin_trim": [
+        10,
+        22,
+        407,
+        397
+      ]
+    },
+    {
+      "index": 19,
+      "file": "egg/RADDISH.JPG",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 12317202,
+      "transparent": false,
+      "source_sha256": "43279719b9233499aed21fd9efe32bed028b02961d9ba762b7ba444d7c722f91",
+      "web_file": "src/assets/client-menu/019-egg-raddish.webp",
+      "web_sha256": "0fca9b69b240ddef0127796440505e369b603e1c2c272cee3e7a86287dfd774a",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 805848,
+      "menu_code": "O2",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 20,
+      "file": "egg/minced pork steam egg.png",
+      "width": 306,
+      "height": 306,
+      "bytes": 130740,
+      "transparent": true,
+      "source_sha256": "1fd6c082a234e3d4467a5882f46eb64897cf1eca198ff74324e3538878073dd0",
+      "web_file": "src/assets/client-menu/020-egg-minced-pork-steam-egg.webp",
+      "web_sha256": "1a3177ee746654a02355c64042b6768bdf386e702703ddf5858da1940879229f",
+      "web_dimensions": [
+        281,
+        260
+      ],
+      "web_bytes": 83002,
+      "menu_code": "O6",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        19,
+        21,
+        300,
+        281
+      ]
+    },
+    {
+      "index": 21,
+      "file": "egg/steam trio egg.png",
+      "width": 306,
+      "height": 306,
+      "bytes": 131290,
+      "transparent": true,
+      "source_sha256": "cead502626af601ddfc77bbaa588652893bcc30c3593554db5c74f9954402b50",
+      "web_file": "src/assets/client-menu/021-egg-steam-trio-egg.webp",
+      "web_sha256": "fa13ec04015174c6754443ad2a9598070636db0c653539df486739190aba153a",
+      "web_dimensions": [
+        281,
+        260
+      ],
+      "web_bytes": 81978,
+      "menu_code": "O1",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        19,
+        21,
+        300,
+        281
+      ]
+    },
+    {
+      "index": 22,
+      "file": "fish/BLACK BEAN FISH MEAT.png",
+      "width": 1920,
+      "height": 1069,
+      "bytes": 1343949,
+      "transparent": true,
+      "source_sha256": "eba860bd4cbc2f8965646b8fb906bd6ccd42fe311f37dd834144ab224a02bc61",
+      "web_file": "src/assets/client-menu/022-fish-black-bean-fish-meat.webp",
+      "web_sha256": "38b6aba9cec7047590d4336267103c927ae27ba7a2640d879187c6a5ef96ff0f",
+      "web_dimensions": [
+        1063,
+        645
+      ],
+      "web_bytes": 547282,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        259,
+        161,
+        1322,
+        806
+      ]
+    },
+    {
+      "index": 23,
+      "file": "fish/BackgroundEraser_20260716_193723355.png",
+      "width": 1920,
+      "height": 1276,
+      "bytes": 1852900,
+      "transparent": true,
+      "source_sha256": "b9f4a052f7d304ef80619b1970110cff1602b7d838f080175c108c10100e37ae",
+      "web_file": "src/assets/client-menu/023-fish-backgrounderaser-20260716-193723355.webp",
+      "web_sha256": "eca03198c24340fb3efcf2ba45d0add3930172a238f80d496c361cf57626d006",
+      "web_dimensions": [
+        1336,
+        861
+      ],
+      "web_bytes": 727978,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        58,
+        202,
+        1394,
+        1063
+      ]
+    },
+    {
+      "index": 24,
+      "file": "fish/BackgroundEraser_20261009_144956595.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 615720,
+      "transparent": true,
+      "source_sha256": "8bc32b35e0de82cec95ca59e3516cbab16b11a42b9f44ba8890050e1b41b6846",
+      "web_file": "src/assets/client-menu/024-fish-backgrounderaser-20261009-144956595.webp",
+      "web_sha256": "cc538fdd6c916def5ecd2cf3a0389024ff80f0a71d81f4948d13b564fb7d9337",
+      "web_dimensions": [
+        835,
+        380
+      ],
+      "web_bytes": 240904,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        355,
+        355,
+        1190,
+        735
+      ]
+    },
+    {
+      "index": 25,
+      "file": "fish/CLAYPOT FISH.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2251374,
+      "transparent": true,
+      "source_sha256": "dd978166dc9975d504d1c72a0f95a0ec79395558a41ecd12fe93fe7313455a58",
+      "web_file": "src/assets/client-menu/025-fish-claypot-fish.webp",
+      "web_sha256": "866022689adb9dfd1539110207d32145ee0983ea2bfc549102fbadb7472d7f90",
+      "web_dimensions": [
+        1312,
+        890
+      ],
+      "web_bytes": 940844,
+      "menu_code": "F7",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        139,
+        0,
+        1451,
+        890
+      ]
+    },
+    {
+      "index": 26,
+      "file": "fish/CURRY FISH HEAD.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1889238,
+      "transparent": true,
+      "source_sha256": "c65717c201b2795b850aeb9a475fd50e40c825d00627e438c79f60cb60f74f67",
+      "web_file": "src/assets/client-menu/026-fish-curry-fish-head.webp",
+      "web_sha256": "61bb6dc3f54522ce71f27561f8fdce6545f7fc776e1601867973196f0db26f86",
+      "web_dimensions": [
+        1077,
+        887
+      ],
+      "web_bytes": 775834,
+      "menu_code": "F3",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        275,
+        3,
+        1352,
+        890
+      ]
+    },
+    {
+      "index": 27,
+      "file": "fish/DEEP FRIED FISH MEAT.png",
+      "width": 1920,
+      "height": 1069,
+      "bytes": 1378145,
+      "transparent": true,
+      "source_sha256": "ce4c437da8020c80a5240c2a104e44ce9c2c85c1f87b912a160657e3208a6bf2",
+      "web_file": "src/assets/client-menu/027-fish-deep-fried-fish-meat.webp",
+      "web_sha256": "89c370db0c532df4a2c769f08d96da371e5bbcde1335a7608a7673428cbf0868",
+      "web_dimensions": [
+        1041,
+        696
+      ],
+      "web_bytes": 567014,
+      "menu_code": "F5",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        319,
+        50,
+        1360,
+        746
+      ]
+    },
+    {
+      "index": 28,
+      "file": "fish/HK STYLE STEAM GROUOPER.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1900746,
+      "transparent": true,
+      "source_sha256": "0dd8e2ecdb449b07ba77b9a9304d6adb4ee130f89b5d6389b6c66317b0b57a47",
+      "web_file": "src/assets/client-menu/028-fish-hk-style-steam-grouoper.webp",
+      "web_sha256": "0f1786275f8d1dfb781008343bac7c9e1204770153cd682a48c28047d4c65874",
+      "web_dimensions": [
+        1367,
+        784
+      ],
+      "web_bytes": 764176,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Source is HK-style steamed grouper; existing F2 is Teochew-style and F9 is fish tail. Confirm the exact menu item.",
+      "transparent_margin_trim": [
+        115,
+        54,
+        1482,
+        838
+      ]
+    },
+    {
+      "index": 29,
+      "file": "fish/SAMBAL FISH.png",
+      "width": 1920,
+      "height": 3436,
+      "bytes": 1693245,
+      "transparent": true,
+      "source_sha256": "522645e5e982aee465c9c757ac8cbcba0b92e71efdf107370fd05d69b07c098f",
+      "web_file": "src/assets/client-menu/029-fish-sambal-fish.webp",
+      "web_sha256": "0b58218741498553b2616bbda87d188bca44a997755df7460991a295abdde0df",
+      "web_dimensions": [
+        787,
+        448
+      ],
+      "web_bytes": 253830,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        87,
+        798,
+        874,
+        1246
+      ]
+    },
+    {
+      "index": 30,
+      "file": "fish/SWEET AND SOUR GROUPER.png",
+      "width": 1920,
+      "height": 1069,
+      "bytes": 1668933,
+      "transparent": true,
+      "source_sha256": "53c57965836a6ee2461ff8ac7a0da19f2d11bacf004bcbcca67ee96a1711f677",
+      "web_file": "src/assets/client-menu/030-fish-sweet-and-sour-grouper.webp",
+      "web_sha256": "10f45fcfa53dbb692eba77389c7d65e5f47822c0e81a40e36e91c4a573d5de4b",
+      "web_dimensions": [
+        1333,
+        710
+      ],
+      "web_bytes": 681878,
+      "menu_code": "F8",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        149,
+        133,
+        1482,
+        843
+      ]
+    },
+    {
+      "index": 31,
+      "file": "frog/BackgroundEraser_20260902_174657999.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2165329,
+      "transparent": true,
+      "source_sha256": "21271a8f6a2e181d9c7052f5e9b31b31af3e7ad1525b76880a4967b598690443",
+      "web_file": "src/assets/client-menu/031-frog-backgrounderaser-20260902-174657999.webp",
+      "web_sha256": "14745299900a321c072b7abe0c282ce83d1f668fdbfbf5db1e2463b11ca0ecd3",
+      "web_dimensions": [
+        1390,
+        890
+      ],
+      "web_bytes": 859048,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        107,
+        0,
+        1497,
+        890
+      ]
+    },
+    {
+      "index": 32,
+      "file": "frog/BackgroundEraser_20260906_131532826.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1822102,
+      "transparent": true,
+      "source_sha256": "d1f4b2ce4266785169f1c88909f98ef064a9117b4e3f491ec973fbb0159258f0",
+      "web_file": "src/assets/client-menu/032-frog-backgrounderaser-20260906-131532826.webp",
+      "web_sha256": "91a23c8ddf65413a34829fa4fa6a1fbda32b65a9f1a42a2d4e7e41d9bcd4d0e1",
+      "web_dimensions": [
+        1174,
+        853
+      ],
+      "web_bytes": 721918,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        202,
+        21,
+        1376,
+        874
+      ]
+    },
+    {
+      "index": 33,
+      "file": "frog/BackgroundEraser_20260906_132404885.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1381971,
+      "transparent": true,
+      "source_sha256": "2aa786c23b09684ca36a91b8c25a9a77a17fe0699e5d7e3db686e239702a186c",
+      "web_file": "src/assets/client-menu/033-frog-backgrounderaser-20260906-132404885.webp",
+      "web_sha256": "46a9be228795d2da36565406916356faf54cf0848c1d5c4e280a9b000eb6736f",
+      "web_dimensions": [
+        904,
+        822
+      ],
+      "web_bytes": 525810,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        349,
+        30,
+        1253,
+        852
+      ]
+    },
+    {
+      "index": 34,
+      "file": "frog/BackgroundEraser_20260906_133820761.png",
+      "width": 1920,
+      "height": 3436,
+      "bytes": 2952462,
+      "transparent": true,
+      "source_sha256": "8392d99d8855e9f8f52c3d4bd57afa682a299e45e75e8eadffb953210087d138",
+      "web_file": "src/assets/client-menu/034-frog-backgrounderaser-20260906-133820761.webp",
+      "web_sha256": "94a1e25eea6597cbb362e2fa2e451f64d4f0ce9cbb5f29bac342b0f17613620d",
+      "web_dimensions": [
+        808,
+        714
+      ],
+      "web_bytes": 482952,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        22,
+        398,
+        830,
+        1112
+      ]
+    },
+    {
+      "index": 35,
+      "file": "green/KIALAN.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2266768,
+      "transparent": true,
+      "source_sha256": "354f7aa5368653fdd85811c387e54d465bd7849f3fb4e1971166549e19377245",
+      "web_file": "src/assets/client-menu/035-green-kialan.webp",
+      "web_sha256": "e2d917369c638257e708224caa86c92277dbe48901e62d7234460b8152c0a9f6",
+      "web_dimensions": [
+        1550,
+        890
+      ],
+      "web_bytes": 920216,
+      "menu_code": "G2",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        18,
+        0,
+        1568,
+        890
+      ]
+    },
+    {
+      "index": 36,
+      "file": "green/ROMAINE LETTUCE.png",
+      "width": 1920,
+      "height": 1314,
+      "bytes": 2381925,
+      "transparent": true,
+      "source_sha256": "f94747349f06d2c79d2f0c2a8bd575ac1e1dbb2188cf3602477e2275e866a51c",
+      "web_file": "src/assets/client-menu/036-green-romaine-lettuce.webp",
+      "web_sha256": "285af3b27da6039fe4d3fe2b8e9d6d13feb4e1940ce1760735dfeae4e25b1115",
+      "web_dimensions": [
+        1561,
+        1037
+      ],
+      "web_bytes": 978964,
+      "menu_code": "G1",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        27,
+        58,
+        1588,
+        1095
+      ]
+    },
+    {
+      "index": 37,
+      "file": "green/SAMLL CABBAGE.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2022949,
+      "transparent": true,
+      "source_sha256": "03a75cf97133c2a3fd5524b91af752a6e944e73b8801f76999eb7a134e7f9cd4",
+      "web_file": "src/assets/client-menu/037-green-samll-cabbage.webp",
+      "web_sha256": "c4c76bf944904b394f0db193db909dedd29e40fbdbff362829dcfbe3b79b77ea",
+      "web_dimensions": [
+        1554,
+        881
+      ],
+      "web_bytes": 816816,
+      "menu_code": "G5",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        23,
+        9,
+        1577,
+        890
+      ]
+    },
+    {
+      "index": 38,
+      "file": "green/beansprout.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2115633,
+      "transparent": true,
+      "source_sha256": "6261150c48749d93096bfcd2a825b06f67d674b0f3d766b1995f6939b5b8bd56",
+      "web_file": "src/assets/client-menu/038-green-beansprout.webp",
+      "web_sha256": "d81b584a5b25d3445088f12efe5e3f044a5be8bf61a18f6c6ef3be66ac124340",
+      "web_dimensions": [
+        1559,
+        890
+      ],
+      "web_bytes": 864950,
+      "menu_code": "G3",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        28,
+        0,
+        1587,
+        890
+      ]
+    },
+    {
+      "index": 39,
+      "file": "green/broccolli.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1518517,
+      "transparent": true,
+      "source_sha256": "2fd8a172b65c4d2cbcdcc3fd86249ed649593b9e93eaf6ab129c76410486aebb",
+      "web_file": "src/assets/client-menu/039-green-broccolli.webp",
+      "web_sha256": "303731935828df9eb84425874415739620e4c3d0796507a53dfc356a51edda40",
+      "web_dimensions": [
+        1301,
+        722
+      ],
+      "web_bytes": 608536,
+      "menu_code": "G7",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        134,
+        124,
+        1435,
+        846
+      ]
+    },
+    {
+      "index": 40,
+      "file": "green/kANGKONG.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2270901,
+      "transparent": true,
+      "source_sha256": "13730b053b77a4b8e7a9a06d4e2b1b6344320264ebf614133324fca45dc7c540",
+      "web_file": "src/assets/client-menu/040-green-kangkong.webp",
+      "web_sha256": "5527aef3bd5da35591c9e4d0660bcaba5ba97454551f5d7edc04457bad165716",
+      "web_dimensions": [
+        1600,
+        869
+      ],
+      "web_bytes": 922840,
+      "menu_code": "G6",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        0,
+        21,
+        1600,
+        890
+      ]
+    },
+    {
+      "index": 41,
+      "file": "green/lettuce.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1588567,
+      "transparent": true,
+      "source_sha256": "b94dd037d8db5c87424d03f5cfa4fc1b81337392237fcd8f2431228d6d677e33",
+      "web_file": "src/assets/client-menu/041-green-lettuce.webp",
+      "web_sha256": "840a02d606e7fd94d14e190f7db563e2eea7026a88f480d03ce6192b9122c36d",
+      "web_dimensions": [
+        1096,
+        831
+      ],
+      "web_bytes": 642820,
+      "menu_code": "G4",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        258,
+        19,
+        1354,
+        850
+      ]
+    },
+    {
+      "index": 42,
+      "file": "green/spinach.png",
+      "width": 766,
+      "height": 541,
+      "bytes": 574535,
+      "transparent": true,
+      "source_sha256": "618eb1c9ba7bf471a686b747895e31d2483612425a2bb4350915b2ad10ee539a",
+      "web_file": "src/assets/client-menu/042-green-spinach.webp",
+      "web_sha256": "9cbb17d678f21c5aa3b812aa23e1aacc6b5e7db010ae22a321be82a24f3231fa",
+      "web_dimensions": [
+        752,
+        500
+      ],
+      "web_bytes": 307090,
+      "menu_code": "G8",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        6,
+        26,
+        758,
+        526
+      ]
+    },
+    {
+      "index": 43,
+      "file": "hor fun/3CSVicEc.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 772488,
+      "transparent": true,
+      "source_sha256": "7fe756a22e65183f4dca6411a5d0ae695c46a6aa6c35177682201a9e232c62b1",
+      "web_file": "src/assets/client-menu/043-hor-fun-3csvicec.webp",
+      "web_sha256": "5876994c9c1e6dce2bf9c4f5aa020323a4d3835ec0fe1eada5d7a4573944233b",
+      "web_dimensions": [
+        833,
+        563
+      ],
+      "web_bytes": 434644,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is H3 Beef Hor Fun with Black Bean Sauce.",
+      "transparent_margin_trim": [
+        121,
+        264,
+        954,
+        827
+      ]
+    },
+    {
+      "index": 44,
+      "file": "hor fun/BackgroundEraser_20260905_134052635.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2122451,
+      "transparent": true,
+      "source_sha256": "48ff1f3e0b2440a94297c5cea60c46518f18b1b6f04ecef122d9406f192d7009",
+      "web_file": "src/assets/client-menu/044-hor-fun-backgrounderaser-20260905-134052635.webp",
+      "web_sha256": "52a8add4d45ff757846b273dd9e68e87f44627c9213be26f9cbd847cf1d91cee",
+      "web_dimensions": [
+        1471,
+        890
+      ],
+      "web_bytes": 874954,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is H4 San Lou Hor Fun.",
+      "transparent_margin_trim": [
+        84,
+        0,
+        1555,
+        890
+      ]
+    },
+    {
+      "index": 45,
+      "file": "hor fun/balck bean fish hor fun.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 753309,
+      "transparent": true,
+      "source_sha256": "1861256db5076fc06b2be909d13450d51df4ff8be3fd1cc58ca9fc9ac9b8b858",
+      "web_file": "src/assets/client-menu/045-hor-fun-balck-bean-fish-hor-fun.webp",
+      "web_sha256": "152dab93356632f9969a7b0c904472f57fd62611fde007a694ce5df64fd15364",
+      "web_dimensions": [
+        844,
+        571
+      ],
+      "web_bytes": 422214,
+      "menu_code": "H6",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        118,
+        259,
+        962,
+        830
+      ]
+    },
+    {
+      "index": 46,
+      "file": "hor fun/dry beef hor fun.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 772964,
+      "transparent": true,
+      "source_sha256": "5f3416e64d92b3e926614f8357575653bce5fdb0f03a5efd5f884883b4e0a158",
+      "web_file": "src/assets/client-menu/046-hor-fun-dry-beef-hor-fun.webp",
+      "web_sha256": "6633e5001b38297ad56b738bf725e50d27d7161f6f3c726772c2af368205d5d2",
+      "web_dimensions": [
+        824,
+        558
+      ],
+      "web_bytes": 427518,
+      "menu_code": "H7",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        123,
+        262,
+        947,
+        820
+      ]
+    },
+    {
+      "index": 47,
+      "file": "hor fun/egg hor fun.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 757907,
+      "transparent": true,
+      "source_sha256": "4ae780e6b6f7fa3635df306645e007746c2585f95efcf2503000a93246b07169",
+      "web_file": "src/assets/client-menu/047-hor-fun-egg-hor-fun.webp",
+      "web_sha256": "b22b98c51082cecbe19df28856abec325fe52ee3fb73b189c2e17b680d7eeb76",
+      "web_dimensions": [
+        848,
+        572
+      ],
+      "web_bytes": 393068,
+      "menu_code": "H2",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        108,
+        246,
+        956,
+        818
+      ]
+    },
+    {
+      "index": 48,
+      "file": "hor fun/moonlight hor fun.png",
+      "width": 529,
+      "height": 433,
+      "bytes": 357292,
+      "transparent": true,
+      "source_sha256": "1477d3f60948833c3fdbd69a6fec4a3e2708e3551b59a483b9e30f8a6cd749d9",
+      "web_file": "src/assets/client-menu/048-hor-fun-moonlight-hor-fun.webp",
+      "web_sha256": "273c13d3c7062c1e3a1294ee9fe65ff3c3f8a5c714a14f7ac77b779d8f54206e",
+      "web_dimensions": [
+        522,
+        411
+      ],
+      "web_bytes": 198722,
+      "menu_code": "H5",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        0,
+        22,
+        522,
+        433
+      ]
+    },
+    {
+      "index": 49,
+      "file": "hor fun/prawn hor fun .png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 888304,
+      "transparent": true,
+      "source_sha256": "609e7cf6ff0b99cad7ed197923ce24b42f7443b08f5553c9680637446672804a",
+      "web_file": "src/assets/client-menu/049-hor-fun-prawn-hor-fun.webp",
+      "web_sha256": "c631526e8ae8c0cbf7f80f1e9739eb4f662b5c5177c449bbf5f5bf62300888b2",
+      "web_dimensions": [
+        912,
+        572
+      ],
+      "web_bytes": 517930,
+      "menu_code": "H1",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        82,
+        246,
+        994,
+        818
+      ]
+    },
+    {
+      "index": 50,
+      "file": "noodle/IMG_20260723_211045.png",
+      "width": 1806,
+      "height": 1354,
+      "bytes": 1503758,
+      "transparent": true,
+      "source_sha256": "007cc0ce6f0c919b79d041e841646280af7d7ab81e8df0925ac8ac1dcb8d90e2",
+      "web_file": "src/assets/client-menu/050-noodle-img-20260723-211045.webp",
+      "web_sha256": "630ff2b1b98e2932a438d578a74bfd7efc0ab60ee712ec8e11f1409086edaf63",
+      "web_dimensions": [
+        1132,
+        842
+      ],
+      "web_bytes": 561864,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        312,
+        152,
+        1444,
+        994
+      ]
+    },
+    {
+      "index": 51,
+      "file": "noodle/PRAWN NOODLE SOUP.png",
+      "width": 1920,
+      "height": 1063,
+      "bytes": 523317,
+      "transparent": true,
+      "source_sha256": "fa5d5ec1a1a3d56b14294db130ea77358231ae0400559991eae19197142b39eb",
+      "web_file": "src/assets/client-menu/051-noodle-prawn-noodle-soup.webp",
+      "web_sha256": "a7cb2eb5113a8b2405f538ee3726f094bc6fb8f32d6e7adbbdef109f1362dcb3",
+      "web_dimensions": [
+        641,
+        438
+      ],
+      "web_bytes": 210044,
+      "menu_code": "N1",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        489,
+        434,
+        1130,
+        872
+      ]
+    },
+    {
+      "index": 52,
+      "file": "noodle/black bean fish meat bee hoon.png",
+      "width": 14917,
+      "height": 6334,
+      "bytes": 21772165,
+      "transparent": true,
+      "source_sha256": "6cde58ba5f54c114244ae9c5f20a63db37df32a3faf42eae4138489d5d10f3e4",
+      "web_file": "src/assets/client-menu/052-noodle-black-bean-fish-meat-bee-hoon.webp",
+      "web_sha256": "4edcfa8d062f54e83728837bd80c0d274f6700c6616cf4a57678735ec37c8a87",
+      "web_dimensions": [
+        1600,
+        679
+      ],
+      "web_bytes": 239758,
+      "menu_code": "N2",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 53,
+      "file": "noodle/dry bee hoon.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 707482,
+      "transparent": true,
+      "source_sha256": "970d27930e2b76fb6e3d7e2c49133361cbe4856940a9714514ca984ef668c4ae",
+      "web_file": "src/assets/client-menu/053-noodle-dry-bee-hoon.webp",
+      "web_sha256": "e593d5b276b44091fcb9d31f2cb50d8be2b5fa67fa050441e7d3d1b606fed091",
+      "web_dimensions": [
+        830,
+        562
+      ],
+      "web_bytes": 383692,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        125,
+        262,
+        955,
+        824
+      ]
+    },
+    {
+      "index": 54,
+      "file": "noodle/fish maet bee hoon.png",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 803433,
+      "transparent": true,
+      "source_sha256": "6c00f5871cca714355106c78b1d175bfde0958833a174d470a12823c918b9843",
+      "web_file": "src/assets/client-menu/054-noodle-fish-maet-bee-hoon.webp",
+      "web_sha256": "84415805a48f7c8a15ae114da11cb92abe3a822492eae8a9b9705469480343d6",
+      "web_dimensions": [
+        808,
+        661
+      ],
+      "web_bytes": 413052,
+      "menu_code": "N3",
+      "status": "assigned",
+      "note": "N3 includes an all-fish-meat option; this photo shows the fish-meat version.",
+      "transparent_margin_trim": [
+        139,
+        243,
+        947,
+        904
+      ]
+    },
+    {
+      "index": 55,
+      "file": "noodle/hokkein mee.png",
+      "width": 306,
+      "height": 306,
+      "bytes": 154317,
+      "transparent": true,
+      "source_sha256": "07bf676ed0ca80bdd656cfce1f6f6c346d5e77575b7b47d667a07975464037ba",
+      "web_file": "src/assets/client-menu/055-noodle-hokkein-mee.webp",
+      "web_sha256": "c5810ffd34540735b84eccf2c1d102a93f5c93e96fdc34ad6572d6e1761c647d",
+      "web_dimensions": [
+        286,
+        258
+      ],
+      "web_bytes": 96850,
+      "menu_code": "N5",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        19,
+        21,
+        305,
+        279
+      ]
+    },
+    {
+      "index": 56,
+      "file": "noodle/mee goreng.png",
+      "width": 306,
+      "height": 306,
+      "bytes": 157071,
+      "transparent": true,
+      "source_sha256": "7a141825ec7ba8b36a96decb7ab418246783b4e381637b72ff17369a75f23455",
+      "web_file": "src/assets/client-menu/056-noodle-mee-goreng.webp",
+      "web_sha256": "a31d6a98cce98fa6f555baf785aa5d8ad9300d17b21b16957059e6f5309060df",
+      "web_dimensions": [
+        287,
+        259
+      ],
+      "web_bytes": 101650,
+      "menu_code": "N6",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        18,
+        20,
+        305,
+        279
+      ]
+    },
+    {
+      "index": 57,
+      "file": "noodle/san mee.png",
+      "width": 940,
+      "height": 470,
+      "bytes": 276712,
+      "transparent": true,
+      "source_sha256": "c8b8d48cb40035e9edd39c18b9f30d39d6e11f90c14525278268b1ffc5c84637",
+      "web_file": "src/assets/client-menu/057-noodle-san-mee.webp",
+      "web_sha256": "1efc8bb6390c84c57eb8cb3c3d1cdc83528eae48349e4cbd4e85c9f0688b12ab",
+      "web_dimensions": [
+        429,
+        355
+      ],
+      "web_bytes": 150948,
+      "menu_code": "N4",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        214,
+        43,
+        643,
+        398
+      ]
+    },
+    {
+      "index": 58,
+      "file": "pork/68826.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 837461,
+      "transparent": true,
+      "source_sha256": "cadd20a6586365fe49dff99d7d2ce5861f607adab9047e5a879bb4b7bb0b8a9c",
+      "web_file": "src/assets/client-menu/058-pork-68826.webp",
+      "web_sha256": "1d141f48a2db21458af31d1f5f0883944a9a66352d0bb876fe95f618b0480942",
+      "web_dimensions": [
+        922,
+        554
+      ],
+      "web_bytes": 342860,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is P3 Kyoto-style Sweet & Sour Pork Chops.",
+      "transparent_margin_trim": [
+        348,
+        183,
+        1270,
+        737
+      ]
+    },
+    {
+      "index": 59,
+      "file": "pork/Picture1.png",
+      "width": 939,
+      "height": 1175,
+      "bytes": 965559,
+      "transparent": true,
+      "source_sha256": "9b867f2d9e4d339b8c05a87ea06786bb9d683fbf94da697a711054b2e9da337f",
+      "web_file": "src/assets/client-menu/059-pork-picture1.webp",
+      "web_sha256": "b2bfcf8fa97d30d340d27fb5c4015bbe7a60986f1eb8124d74c0c345a85db2aa",
+      "web_dimensions": [
+        930,
+        662
+      ],
+      "web_bytes": 536634,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is P6 Sweet & Sour Pork (Gu Lou Yuk).",
+      "transparent_margin_trim": [
+        2,
+        268,
+        932,
+        930
+      ]
+    },
+    {
+      "index": 60,
+      "file": "pork/balck sauce roasted pork.png",
+      "width": 1920,
+      "height": 1276,
+      "bytes": 2597838,
+      "transparent": true,
+      "source_sha256": "bde3895b4f11cdf553a543f905374b53c2dc0a2dc785fd2b605a3fc2cc104321",
+      "web_file": "src/assets/client-menu/060-pork-balck-sauce-roasted-pork.webp",
+      "web_sha256": "f8a343d82854c74f5b4c6da1f1812e08a571dd275eb46595d1c0f5b50d24d946",
+      "web_dimensions": [
+        1600,
+        968
+      ],
+      "web_bytes": 932840,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Named black-sauce roasted pork; please confirm whether it represents P5 Fried Roasted Pork.",
+      "transparent_margin_trim": [
+        0,
+        95,
+        1600,
+        1063
+      ]
+    },
+    {
+      "index": 61,
+      "file": "pork/bittergourd pork ribs.png",
+      "width": 1920,
+      "height": 1326,
+      "bytes": 2155348,
+      "transparent": true,
+      "source_sha256": "07222004ce25674234e6e582867f92ca19b7935af3c124cb94bb9a342be3d026",
+      "web_file": "src/assets/client-menu/061-pork-bittergourd-pork-ribs.webp",
+      "web_sha256": "247a2cf71f8ca88072f78cc511e8ce425c0d56b767e7ab52c72c623cc7e7e7b1",
+      "web_dimensions": [
+        1557,
+        1044
+      ],
+      "web_bytes": 867754,
+      "menu_code": "P1",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        43,
+        32,
+        1600,
+        1076
+      ]
+    },
+    {
+      "index": 62,
+      "file": "pork/kai lan rooset pork.png",
+      "width": 1920,
+      "height": 1276,
+      "bytes": 1687907,
+      "transparent": true,
+      "source_sha256": "3ccc7db0335cb469b45838dac6f5122f4703b08dc7985b4630d310778f2d80d4",
+      "web_file": "src/assets/client-menu/062-pork-kai-lan-rooset-pork.webp",
+      "web_sha256": "54381042378ee28e882297c0dc0aea6ec0536c0c60eb5dcebc0cb61fcfa3f4a0",
+      "web_dimensions": [
+        1583,
+        787
+      ],
+      "web_bytes": 617428,
+      "menu_code": "P4",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        0,
+        276,
+        1583,
+        1063
+      ]
+    },
+    {
+      "index": 63,
+      "file": "pork/mmm.png",
+      "width": 938,
+      "height": 468,
+      "bytes": 338045,
+      "transparent": true,
+      "source_sha256": "4cb14fda4e57bdc8c57e0b6fd9feb5315a626ab0718119c6222e5ad22a76a47b",
+      "web_file": "src/assets/client-menu/063-pork-mmm.webp",
+      "web_sha256": "2390c63138cced832b1d42649a0464488612e6eef55103a19de1411824d0c1b8",
+      "web_dimensions": [
+        474,
+        397
+      ],
+      "web_bytes": 194318,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is P7 Minced Pork with Eggplants Claypot.",
+      "transparent_margin_trim": [
+        193,
+        49,
+        667,
+        446
+      ]
+    },
+    {
+      "index": 64,
+      "file": "pork/steam pork with prawn paste.png",
+      "width": 431,
+      "height": 408,
+      "bytes": 317694,
+      "transparent": true,
+      "source_sha256": "8dc096bb112d3019d607d8bee2b891489f71f714892dd119bae1927e5dcee828",
+      "web_file": "src/assets/client-menu/064-pork-steam-pork-with-prawn-paste.webp",
+      "web_sha256": "965ee5d98f51f45dcd2befb547dcbb15bb148a542fab62ed07dc9eed50ab6003",
+      "web_dimensions": [
+        425,
+        404
+      ],
+      "web_bytes": 180432,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Source is pork with prawn paste; existing P2 is pork patty with salted fish. These are not the same dish.",
+      "transparent_margin_trim": [
+        6,
+        4,
+        431,
+        408
+      ]
+    },
+    {
+      "index": 65,
+      "file": "rice/A10.JPG",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 5080215,
+      "transparent": false,
+      "source_sha256": "47b6289de9cb8b128c4e0c35cb05a4f7a1d30e236ee52983c43f75e47e16a9d0",
+      "web_file": "src/assets/client-menu/065-rice-a10.webp",
+      "web_sha256": "35e312270cc22a77d65e585be24f8fdd99145a4e2705556e6a07ad61e2d23990",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 339186,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is R10 Black Beans Sauce Sliced Fish Rice."
+    },
+    {
+      "index": 66,
+      "file": "rice/A14 (1).png",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 22168999,
+      "transparent": false,
+      "source_sha256": "204f438648daf10ec04e794237623067d3cb94a6b26f8290292d6565acc681e8",
+      "web_file": "src/assets/client-menu/066-rice-a14-1.webp",
+      "web_sha256": "00727a6204bca7b3da09030ccf04f4e8f1b87783ca54c2c3a61296fd097993f3",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 375824,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is R9 Black Sauce Roasted Pork Rice."
+    },
+    {
+      "index": 67,
+      "file": "rice/A62 (1).png",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 28720772,
+      "transparent": false,
+      "source_sha256": "9ed5f0c1c84f1e5ba415b0857449c7a8e22191567efc829126cd0bc5f954a1d9",
+      "web_file": "src/assets/client-menu/067-rice-a62-1.webp",
+      "web_sha256": "04ddcc21183e64ce4b331af6cd8768fa0629e180ff21bf16e23a09c75616795c",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 694168,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is R3 Seafood Fried Rice."
+    },
+    {
+      "index": 68,
+      "file": "rice/BEEF FIRED RICE.png",
+      "width": 245,
+      "height": 245,
+      "bytes": 137297,
+      "transparent": false,
+      "source_sha256": "0063326c98148c95d3ec297ba22aad60d46abf5fbe2950ae70994ae29b89cdba",
+      "web_file": "src/assets/client-menu/068-rice-beef-fired-rice.webp",
+      "web_sha256": "76172fba842e0d33f7c4c7d52301c219dc14a8b02033f83f718b77da7bc5e868",
+      "web_dimensions": [
+        245,
+        245
+      ],
+      "web_bytes": 20118,
+      "menu_code": "R4",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 69,
+      "file": "rice/IMG_20260802_132410.png",
+      "width": 446,
+      "height": 338,
+      "bytes": 220489,
+      "transparent": true,
+      "source_sha256": "7c14d7e570ad02081d32b530678f0373bfefeef92b20ef04173db837895f7fb6",
+      "web_file": "src/assets/client-menu/069-rice-img-20260802-132410.webp",
+      "web_sha256": "7ff63ea2d4b9c46cb8cb6473a0c72c898324feec1484ae8637389d1d5b518781",
+      "web_dimensions": [
+        432,
+        317
+      ],
+      "web_bytes": 130538,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is R2 Thai Fried Rice.",
+      "transparent_margin_trim": [
+        4,
+        11,
+        436,
+        328
+      ]
+    },
+    {
+      "index": 70,
+      "file": "rice/KAI LAN WITH BEEF RICE.png",
+      "width": 285,
+      "height": 285,
+      "bytes": 167183,
+      "transparent": false,
+      "source_sha256": "0890425c5b40b9c61d82278dc344d2836693eb51e975d21732131fb2343878e8",
+      "web_file": "src/assets/client-menu/070-rice-kai-lan-with-beef-rice.webp",
+      "web_sha256": "aba96661915407f8b86352d24daac53b821a8ff3bd52a0cc7a7562ae6711b03f",
+      "web_dimensions": [
+        285,
+        285
+      ],
+      "web_bytes": 20360,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review."
+    },
+    {
+      "index": 71,
+      "file": "rice/Sweet & Sour Pork Rice.png",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 21254238,
+      "transparent": false,
+      "source_sha256": "cf1c8bc074392073803f94efb03cafeb0d79dda8f16aa510f6f3e0171becd9ff",
+      "web_file": "src/assets/client-menu/071-rice-sweet-sour-pork-rice.webp",
+      "web_sha256": "e8053ff15e2a39e978dbaed8ff1458d284e22bec12ec8deee68418d0036c8c84",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 291488,
+      "menu_code": "R8",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 72,
+      "file": "rice/brasied rice.png",
+      "width": 306,
+      "height": 306,
+      "bytes": 176180,
+      "transparent": true,
+      "source_sha256": "c1aeb9191e1538bb791ed5235fe0f355f3bece14f5cac13c2277b7bd40e7ddae",
+      "web_file": "src/assets/client-menu/072-rice-brasied-rice.webp",
+      "web_sha256": "3e4fb116677f5824e0862ce790dcff9fd12b5b951d6d9803b27c1c4ddc47dfc5",
+      "web_dimensions": [
+        306,
+        306
+      ],
+      "web_bytes": 16736,
+      "menu_code": "R11",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 73,
+      "file": "rice/kai lan roosted pork rice.png",
+      "width": 227,
+      "height": 227,
+      "bytes": 107989,
+      "transparent": false,
+      "source_sha256": "2b72e227b58343075fc7b71ed73997b3f0cb4531c119125e84ab6dda2ba47ff5",
+      "web_file": "src/assets/client-menu/073-rice-kai-lan-roosted-pork-rice.webp",
+      "web_sha256": "42bba19ca2bcf6e2c6deccd2a4d5baa017b85bfa6bff09a7427c425a2e8233d0",
+      "web_dimensions": [
+        227,
+        227
+      ],
+      "web_bytes": 13334,
+      "menu_code": "R12",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 74,
+      "file": "rice/soup rice.png",
+      "width": 727,
+      "height": 725,
+      "bytes": 677654,
+      "transparent": false,
+      "source_sha256": "42695bbecf730550c79425b8f14669fcf2c9b945f9617231b1379c79e14ee092",
+      "web_file": "src/assets/client-menu/074-rice-soup-rice.webp",
+      "web_sha256": "7c2ab07fe97a426e7c1f7b30846d0b47c2ceb361ff9dec0f3a8ee0503f128f14",
+      "web_dimensions": [
+        727,
+        725
+      ],
+      "web_bytes": 41602,
+      "menu_code": "R5",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 75,
+      "file": "rice/spring onion beef rice.png",
+      "width": 224,
+      "height": 224,
+      "bytes": 103533,
+      "transparent": false,
+      "source_sha256": "f04b4f770b01739bb758019e3e4b1c0ba76fedd5a6218675405dfc4c48f49b49",
+      "web_file": "src/assets/client-menu/075-rice-spring-onion-beef-rice.webp",
+      "web_sha256": "7b076839bb7524cc3ee2e7616a66199abc83c8243b82d8357a815859977c2d99",
+      "web_dimensions": [
+        224,
+        224
+      ],
+      "web_bytes": 12768,
+      "menu_code": "R6",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 76,
+      "file": "rice/ttttt.png",
+      "width": 379,
+      "height": 379,
+      "bytes": 273604,
+      "transparent": true,
+      "source_sha256": "12786a4febfae0e57bcba944bbfedc7c5a9391c484e0b5b529969a8218c18735",
+      "web_file": "src/assets/client-menu/076-rice-ttttt.webp",
+      "web_sha256": "b11015d48687728113d72d0be193c0a51837f1e5b271d93ed40a7470b43867df",
+      "web_dimensions": [
+        379,
+        379
+      ],
+      "web_bytes": 26452,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Please confirm whether this is R7 Roasted Pork Tofu Rice."
+    },
+    {
+      "index": 77,
+      "file": "rice/yangzhuo fired rice.png",
+      "width": 4000,
+      "height": 4000,
+      "bytes": 28376942,
+      "transparent": false,
+      "source_sha256": "d2e35e506e0ee33311131e6c7d10f1ca587bef1842e5935cf1d1ed30f27e8fdd",
+      "web_file": "src/assets/client-menu/077-rice-yangzhuo-fired-rice.webp",
+      "web_sha256": "ca254508e10491d5ac92b9c07cb5bdaf908ed93d87ebeb3fe792b85b620fbc26",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 671370,
+      "menu_code": "R1",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 78,
+      "file": "seafood/big prawn.png",
+      "width": 1920,
+      "height": 1052,
+      "bytes": 2021864,
+      "transparent": true,
+      "source_sha256": "e393a999156213414a24147601a59506fbea0af6a3dad3f5196afceb76c8f895",
+      "web_file": "src/assets/client-menu/078-seafood-big-prawn.webp",
+      "web_sha256": "ea5998f160903c2dddbb1cb799bf7d8b81d7ddfc0f07dbece8be1dcd9cb96d99",
+      "web_dimensions": [
+        1479,
+        852
+      ],
+      "web_bytes": 842510,
+      "menu_code": "SE8",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        71,
+        0,
+        1550,
+        852
+      ]
+    },
+    {
+      "index": 79,
+      "file": "seafood/broccolli prawn.png",
+      "width": 1920,
+      "height": 1063,
+      "bytes": 1374163,
+      "transparent": true,
+      "source_sha256": "a0cbb0ba2f7f7f0b281ddc48b500253d247c102ade69dfc38a8335d4de00aa0e",
+      "web_file": "src/assets/client-menu/079-seafood-broccolli-prawn.webp",
+      "web_sha256": "04971624545dd56df276532a7e8e10a274d1f1126ad713be78afe4718388b853",
+      "web_dimensions": [
+        1082,
+        769
+      ],
+      "web_bytes": 590870,
+      "menu_code": "SE7",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        264,
+        89,
+        1346,
+        858
+      ]
+    },
+    {
+      "index": 80,
+      "file": "seafood/cereal parwn.png",
+      "width": 846,
+      "height": 506,
+      "bytes": 595970,
+      "transparent": true,
+      "source_sha256": "aa373fbd82935b2d11606492056de1fe07dd6540db29fc731a5108200ba86c11",
+      "web_file": "src/assets/client-menu/080-seafood-cereal-parwn.webp",
+      "web_sha256": "10115f8b3f5a04626ced5b0b20c851cd97c91701f2e620e9d26f6b13d4531456",
+      "web_dimensions": [
+        831,
+        468
+      ],
+      "web_bytes": 330020,
+      "menu_code": "SE5",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        15,
+        8,
+        846,
+        476
+      ]
+    },
+    {
+      "index": 81,
+      "file": "seafood/prawn roll.png",
+      "width": 844,
+      "height": 520,
+      "bytes": 557818,
+      "transparent": true,
+      "source_sha256": "9f2898b40e23405cfc2eabdce674e035d220431e23d849a3b4bb7a35fb7764eb",
+      "web_file": "src/assets/client-menu/081-seafood-prawn-roll.webp",
+      "web_sha256": "998e95ab3650f8222c6945ddfd6cb8e28cdd7321a119fc62b3635da47804c196",
+      "web_dimensions": [
+        824,
+        458
+      ],
+      "web_bytes": 306678,
+      "menu_code": "SE6",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        20,
+        34,
+        844,
+        492
+      ]
+    },
+    {
+      "index": 82,
+      "file": "seafood/salt pepper prawn.png",
+      "width": 1920,
+      "height": 1436,
+      "bytes": 2374299,
+      "transparent": true,
+      "source_sha256": "a0f026d936eea1544806080a0a42435cd45f39f3f425109c98b158387f5b494d",
+      "web_file": "src/assets/client-menu/082-seafood-salt-pepper-prawn.webp",
+      "web_sha256": "adaf49a4b32b64eb9c6943f9ba2369680107104f35e03cb829008cd659e49d11",
+      "web_dimensions": [
+        1471,
+        926
+      ],
+      "web_bytes": 890910,
+      "menu_code": "SE4",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        50,
+        146,
+        1521,
+        1072
+      ]
+    },
+    {
+      "index": 83,
+      "file": "seafood/salted egg prawns.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1203818,
+      "transparent": true,
+      "source_sha256": "9eba05dd9f459803bf8437b9ba431097d7e120e1349d2a5e20fe4d28ea853f63",
+      "web_file": "src/assets/client-menu/083-seafood-salted-egg-prawns.webp",
+      "web_sha256": "0ff34917bd3dfee4fd261573b07489aa8f5c49541a475e72f1072c8402dd5e5d",
+      "web_dimensions": [
+        922,
+        645
+      ],
+      "web_bytes": 488022,
+      "menu_code": "SE3",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        247,
+        128,
+        1169,
+        773
+      ]
+    },
+    {
+      "index": 84,
+      "file": "seafood/sambal prawn.png",
+      "width": 1920,
+      "height": 1063,
+      "bytes": 971448,
+      "transparent": true,
+      "source_sha256": "81d226b588a54f5eeeedde33a1ff6508b7b5f89396ae5849daf8aec27a619793",
+      "web_file": "src/assets/client-menu/084-seafood-sambal-prawn.webp",
+      "web_sha256": "c70b8cd42085001f974a73dcf7cfabe6190cfb874d1d8193979189235bef3a56",
+      "web_dimensions": [
+        897,
+        583
+      ],
+      "web_bytes": 418880,
+      "menu_code": "SE1",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        353,
+        203,
+        1250,
+        786
+      ]
+    },
+    {
+      "index": 85,
+      "file": "seafood/sea cucumber with mushroom.png",
+      "width": 1920,
+      "height": 1306,
+      "bytes": 2570281,
+      "transparent": true,
+      "source_sha256": "45f8ea57bdc4dfec4f93d25e81cd50365d38a6266cda1d7e286ad20a7d61c168",
+      "web_file": "src/assets/client-menu/085-seafood-sea-cucumber-with-mushroom.webp",
+      "web_sha256": "80989eb0a7738574af4fd6305cafff7f5beacf34f860af83dbbcd51f50cf9ce4",
+      "web_dimensions": [
+        1525,
+        1064
+      ],
+      "web_bytes": 998038,
+      "menu_code": "SE2",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        4,
+        0,
+        1529,
+        1064
+      ]
+    },
+    {
+      "index": 86,
+      "file": "soup/A23.png",
+      "width": 4164,
+      "height": 4164,
+      "bytes": 26413620,
+      "transparent": false,
+      "source_sha256": "38135ad6c84a62d078fb0a628917aa57e9e5e6257e98896507be573f83fc8348",
+      "web_file": "src/assets/client-menu/086-soup-a23.webp",
+      "web_sha256": "5b6fdac232f681f8ef6b71821414a6d74e1df306c5a98d36e4188f1ddfdf75ea",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 305510,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review."
+    },
+    {
+      "index": 87,
+      "file": "soup/A26.png",
+      "width": 4164,
+      "height": 4164,
+      "bytes": 25394242,
+      "transparent": false,
+      "source_sha256": "0a553a816e2992544632952ef160f35ec81848f053611ad783728521974b77e5",
+      "web_file": "src/assets/client-menu/087-soup-a26.webp",
+      "web_sha256": "30e8a383277c8e5f9915d6abcf252171d2181239015716ca07bfde7327129cda",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 313006,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review."
+    },
+    {
+      "index": 88,
+      "file": "soup/A28.png",
+      "width": 4164,
+      "height": 4164,
+      "bytes": 26001449,
+      "transparent": false,
+      "source_sha256": "09046c451dba272a84f22b8f5a092e316358294cee6d673d92e22bb6b9f51f2e",
+      "web_file": "src/assets/client-menu/088-soup-a28.webp",
+      "web_sha256": "a0fe2c2d9064c96647ca7972ce4cd6e92885e49ca336cba3d9fdac61dda66f0f",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 380684,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review."
+    },
+    {
+      "index": 89,
+      "file": "soup/A32.png",
+      "width": 4164,
+      "height": 4164,
+      "bytes": 28290257,
+      "transparent": false,
+      "source_sha256": "1cd946739b79cca19fdcb4f5ac595b05bc833086025b74d3f07d35222915afe0",
+      "web_file": "src/assets/client-menu/089-soup-a32.webp",
+      "web_sha256": "25b21c0a6f53c16ba0465002cd720de9b77446711d1304e7e5ebd6ad445ff37a",
+      "web_dimensions": [
+        1600,
+        1600
+      ],
+      "web_bytes": 459610,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review."
+    },
+    {
+      "index": 90,
+      "file": "soup/BackgroundEraser_20260909_171431938.png",
+      "width": 1920,
+      "height": 3436,
+      "bytes": 2818605,
+      "transparent": true,
+      "source_sha256": "0a2b6434ecada530ae71301d6ed11ea47d06824e9d3af6551156b5488c01ef7c",
+      "web_file": "src/assets/client-menu/090-soup-backgrounderaser-20260909-171431938.webp",
+      "web_sha256": "5603c33bb0a556452a1a53f7fb59547c08257567c379f40a8059f32cce98b866",
+      "web_dimensions": [
+        824,
+        842
+      ],
+      "web_bytes": 461842,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        36,
+        408,
+        860,
+        1250
+      ]
+    },
+    {
+      "index": 91,
+      "file": "soup/bittergourd soup.png",
+      "width": 347,
+      "height": 347,
+      "bytes": 210171,
+      "transparent": false,
+      "source_sha256": "5afc1651d63def0a4384315fa741e40099ac204ccf8f80d0e250ded9421730b7",
+      "web_file": "src/assets/client-menu/091-soup-bittergourd-soup.webp",
+      "web_sha256": "e9b57ab6acb20c7da8e38bdfa1798b1496a3b6722dcc3fe1de0913f6f47a9deb",
+      "web_dimensions": [
+        347,
+        347
+      ],
+      "web_bytes": 17074,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review."
+    },
+    {
+      "index": 92,
+      "file": "tofu/braised tofu.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2377387,
+      "transparent": true,
+      "source_sha256": "13d09455d7b0bec1c9ad573c7588e325c875c77582a5f47abde5d59499cc905f",
+      "web_file": "src/assets/client-menu/092-tofu-braised-tofu.webp",
+      "web_sha256": "47803a513539f4c6cd9497c883d16fb397b2940e32cc28666dc0fc0c83f34d4c",
+      "web_dimensions": [
+        1572,
+        890
+      ],
+      "web_bytes": 968090,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        28,
+        0,
+        1600,
+        890
+      ]
+    },
+    {
+      "index": 93,
+      "file": "tofu/homemade tofu.png",
+      "width": 14195,
+      "height": 7280,
+      "bytes": 1371308,
+      "transparent": true,
+      "source_sha256": "a499d0d948c563756bab3ce105ffead0b0143f4b61db74b339a6b7631ea972b0",
+      "web_file": "src/assets/client-menu/093-tofu-homemade-tofu.webp",
+      "web_sha256": "5def60bc7d456e493933ff92c984da204231d902b71f1f4810a01922f6894983",
+      "web_dimensions": [
+        1600,
+        821
+      ],
+      "web_bytes": 187182,
+      "menu_code": "T2",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 94,
+      "file": "tofu/hotplate tofu.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 2696636,
+      "transparent": true,
+      "source_sha256": "594dfb761dbe9da1b366cb1efaaa48a71fe5e16ed2603df38d47a33f2fde33f3",
+      "web_file": "src/assets/client-menu/094-tofu-hotplate-tofu.webp",
+      "web_sha256": "926718742a43b322853e0072b2c46a3c8561c12b14d2c31ebcce9090927a1caa",
+      "web_dimensions": [
+        1600,
+        890
+      ],
+      "web_bytes": 234512,
+      "menu_code": "T7",
+      "status": "assigned",
+      "note": ""
+    },
+    {
+      "index": 95,
+      "file": "tofu/prawen tofu.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1693236,
+      "transparent": true,
+      "source_sha256": "bb564674202ffaa45cd047b9774137c8c2e31de5982aa90df5104d3c744200d1",
+      "web_file": "src/assets/client-menu/095-tofu-prawen-tofu.webp",
+      "web_sha256": "81be3b829a1e6d0b48fd980eda945824743ce76c65ef4aa0e5f2530b1765781c",
+      "web_dimensions": [
+        962,
+        873
+      ],
+      "web_bytes": 675850,
+      "menu_code": "T3",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        319,
+        3,
+        1281,
+        876
+      ]
+    },
+    {
+      "index": 96,
+      "file": "tofu/sea cucumber.png",
+      "width": 939,
+      "height": 700,
+      "bytes": 526918,
+      "transparent": true,
+      "source_sha256": "812d379817aa07d482fbd7c5f1ef618ae51c09cc2d38d7ea82e7fca3fe36fd15",
+      "web_file": "src/assets/client-menu/096-tofu-sea-cucumber.webp",
+      "web_sha256": "d01f34f86b6294ae12dad86764df34f554ab778327db25c9bf7b63f68da20072",
+      "web_dimensions": [
+        643,
+        461
+      ],
+      "web_bytes": 299034,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "Alternate photo of the same claypot as source 97; source 97 is assigned to T5.",
+      "transparent_margin_trim": [
+        163,
+        119,
+        806,
+        580
+      ]
+    },
+    {
+      "index": 97,
+      "file": "tofu/sea cumber with tofu.png",
+      "width": 1920,
+      "height": 1068,
+      "bytes": 1289423,
+      "transparent": true,
+      "source_sha256": "2d0ee4fc82fa046132930a99e4ed56d925f35cf4b9edbc6575691c03cad0f208",
+      "web_file": "src/assets/client-menu/097-tofu-sea-cumber-with-tofu.webp",
+      "web_sha256": "4f48ed989651bdee6943c0b1da07087423a780265c8e8b1ae6fba0f4d74a7518",
+      "web_dimensions": [
+        1050,
+        743
+      ],
+      "web_bytes": 529174,
+      "menu_code": "T5",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        274,
+        91,
+        1324,
+        834
+      ]
+    },
+    {
+      "index": 98,
+      "file": "tofu/ytf.png",
+      "width": 752,
+      "height": 525,
+      "bytes": 598545,
+      "transparent": true,
+      "source_sha256": "e795b62e9c6ad1827db8f27399014347ed20e837275eb2b12385383bfeecb163",
+      "web_file": "src/assets/client-menu/098-tofu-ytf.webp",
+      "web_sha256": "52f57a8a95fe447d8b8011e088a8425e363f53ae2920eb2e8b809efd5a706427",
+      "web_dimensions": [
+        752,
+        503
+      ],
+      "web_bytes": 340256,
+      "menu_code": "T1",
+      "status": "assigned",
+      "note": "",
+      "transparent_margin_trim": [
+        0,
+        16,
+        752,
+        519
+      ]
+    },
+    {
+      "index": 99,
+      "file": "yam paste.png",
+      "width": 306,
+      "height": 306,
+      "bytes": 115663,
+      "transparent": true,
+      "source_sha256": "7df3f5ba87f3f57e1bd5fcde6caf0ba563596ef1f43dc6c2481dada73285f909",
+      "web_file": "src/assets/client-menu/099-yam-paste.webp",
+      "web_sha256": "e1e4f378280037346a5f30e7796980fe8daeae485c206459ff41de4130cb6641",
+      "web_dimensions": [
+        281,
+        260
+      ],
+      "web_bytes": 61104,
+      "menu_code": null,
+      "status": "unassigned",
+      "note": "No confirmed matching entry in the current website menu. Keep for client review.",
+      "transparent_margin_trim": [
+        19,
+        21,
+        300,
+        281
+      ]
+    }
+  ]
+}

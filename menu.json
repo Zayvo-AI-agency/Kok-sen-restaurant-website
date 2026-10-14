@@ -1,0 +1,4783 @@
+{
+  "restaurant": "Kok Sen Restaurant",
+  "source": "https://koksen.oddle.me/en_SG",
+  "snapshot_date": "2026-10-10",
+  "currency": "SGD",
+  "statistics": {
+    "categories": 14,
+    "menu_listings": 125,
+    "distinct_exact_dish_names": 110,
+    "listings_with_photos": 114,
+    "photo_files": 121,
+    "unique_source_image_urls": 118,
+    "unique_image_contents": 113,
+    "listings_without_photos": 11,
+    "distinct_names_without_photos": 10
+  },
+  "notes": [
+    "All 14 categories and all 125 listings are retained in the order supplied by the official menu.",
+    "There are 110 distinct exact dish names; signature entries repeat some names from other categories.",
+    "Combined dish names and preparation choices are kept as supplied; they are not split into invented listings.",
+    "Photo files are byte-for-byte copies of the image URLs attached to the official listings. They have not been generated, retouched, resized, or re-encoded.",
+    "Some URLs supplied by the restaurant already contain crop or preview settings; these URLs are preserved.",
+    "For listings with multiple photos, photo numbers follow the source order and do not assert which preparation variant each image depicts.",
+    "10 distinct dish names, spanning 11 listings, have no photo on the official menu. A named text note represents each missing photo.",
+    "Source English and Chinese spellings are retained. Online prices are a snapshot and may change; they may differ from dine-in prices."
+  ],
+  "categories": [
+    {
+      "name": "SIGNATURE",
+      "folder": "01-SIGNATURE",
+      "source_category_id": "8a81904675f596a50175fe6e1056011e",
+      "items": [
+        {
+          "source_item_id": "8a81976e75fe1fb70175fe71049d3ac5",
+          "category": "SIGNATURE",
+          "number_in_category": 1,
+          "name": "Big Prawns Hor Fun | 大虾滑蛋河粉",
+          "english_name": "Big Prawns Hor Fun",
+          "chinese_name": "大虾滑蛋河粉",
+          "variants": [
+            {
+              "name": "Small (小）",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium (中）",
+              "price_sgd": 52.7,
+              "options": []
+            },
+            {
+              "name": "Large (大）",
+              "price_sgd": 79.4,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/01-Big-Prawns-Hor-Fun.png",
+              "source_url": "https://ucarecdn.com/9a0263ba-c404-4e16-9348-23d7859c3842/",
+              "width": 356,
+              "height": 237,
+              "format": "PNG",
+              "bytes": 199029,
+              "sha256": "baf6ee7702297bbdadcc93691d7deea4e60c8eddef7cdc6f88962f4b8ab12923"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81975075fc84cf0175fe6f2e6a6032",
+          "category": "SIGNATURE",
+          "number_in_category": 2,
+          "name": "Claypot Yong Tau Foo | 巧手三宝煲",
+          "english_name": "Claypot Yong Tau Foo",
+          "chinese_name": "巧手三宝煲",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/02-Claypot-Yong-Tau-Foo.png",
+              "source_url": "https://ucarecdn.com/c8bbfc23-e348-411b-bfd5-fd7b8dba4363/",
+              "width": 789,
+              "height": 789,
+              "format": "PNG",
+              "bytes": 1057211,
+              "sha256": "17a26c1e15a01babbdf80f7eb81962cdd0cd0dd97a2aa4d358f085672b11cbd2"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818e057cfaffc7017cfb28721a118b",
+          "category": "SIGNATURE",
+          "number_in_category": 3,
+          "name": "Golden Dragon Chicken | 脆皮金龙鸡",
+          "english_name": "Golden Dragon Chicken",
+          "chinese_name": "脆皮金龙鸡",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 46.4,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/03-Golden-Dragon-Chicken.png",
+              "source_url": "https://ucarecdn.com/d985976a-5134-4f8b-bcfc-22a2055a0bfe/",
+              "width": 6170,
+              "height": 4730,
+              "format": "PNG",
+              "bytes": 1850848,
+              "sha256": "631525685203fb1567465b86ff64b720c6350f03a264643e5010d66fcd8b8aa7"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81976e75fe1fb70175fe733a3c3c8c",
+          "category": "SIGNATURE",
+          "number_in_category": 4,
+          "name": "Prawn Paste Chicken | 虾酱鸡",
+          "english_name": "Prawn Paste Chicken",
+          "chinese_name": "虾酱鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 20,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 29.9,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/04-Prawn-Paste-Chicken.jpg",
+              "source_url": "https://ucarecdn.com/d5709a32-eb33-4e52-8579-0f611d0dd94a/",
+              "width": 864,
+              "height": 576,
+              "format": "JPEG",
+              "bytes": 478081,
+              "sha256": "48bcd4e57aee3e6717f882ff7fd8803decfd636a295814ca472db24ce3d74655"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818cf975fd11d50175fe72a5de592b",
+          "category": "SIGNATURE",
+          "number_in_category": 5,
+          "name": "Kai Lan Stir Fried with Roasted Pork | 芥兰炒烧肉",
+          "english_name": "Kai Lan Stir Fried with Roasted Pork",
+          "chinese_name": "芥兰炒烧肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/05-Kai-Lan-Stir-Fried-with-Roasted-Pork.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/KaiLanStirFriedwithRoastedPorkce6496.jpg",
+              "width": 1440,
+              "height": 1072,
+              "format": "JPEG",
+              "bytes": 151312,
+              "sha256": "c483d5503f66db1b2860dcd3eb6e9124be640dacac9f13227f9520b2cf3f49a7"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81912080ac3df20180ac6767ed0c7a",
+          "category": "SIGNATURE",
+          "number_in_category": 6,
+          "name": "Prawn Roll | 虾枣",
+          "english_name": "Prawn Roll",
+          "chinese_name": "虾枣",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 17.3,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 25.4,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 34.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/06-Prawn-Roll.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/PrawnRolldb589a.jpg",
+              "width": 1440,
+              "height": 981,
+              "format": "JPEG",
+              "bytes": 162650,
+              "sha256": "da2cfbc9d2c824997943b001273e4fdb1222e0ac195e14dd05b0274f18d52a2d"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81926575fd09ec0175fe720eda749c",
+          "category": "SIGNATURE",
+          "number_in_category": 7,
+          "name": "Bittergourd Pork Ribs with Black Bean Sauce | 苦瓜豉汁闷排骨",
+          "english_name": "Bittergourd Pork Ribs with Black Bean Sauce",
+          "chinese_name": "苦瓜豉汁闷排骨",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/07-Bittergourd-Pork-Ribs-with-Black-Bean-Sauce.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BittergourdPorkRibswithBlackBeanSauce223406.jpg",
+              "width": 1440,
+              "height": 1072,
+              "format": "JPEG",
+              "bytes": 204054,
+              "sha256": "6136349367f5935ee73b35430c20ae74b29ce679e4add74b0f9be54f8a1d09e0"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81926575fd09ec0175fe73eefb759c",
+          "category": "SIGNATURE",
+          "number_in_category": 8,
+          "name": "Stir Fried Beef with Spring Onion | 姜葱炒牛肉",
+          "english_name": "Stir Fried Beef with Spring Onion",
+          "chinese_name": "姜葱炒牛肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/08-Stir-Fried-Beef-with-Spring-Onion.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/StirFriedBeefwithSpringOnion355f6b.jpg",
+              "width": 1440,
+              "height": 1094,
+              "format": "JPEG",
+              "bytes": 154894,
+              "sha256": "f5e0c895d955b99a1ce1c797bd3b31cc4eec26c5702ce823ae72b55d455cf069"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81975075fc84cf0175fe7375c46252",
+          "category": "SIGNATURE",
+          "number_in_category": 9,
+          "name": "Black Bean/Dry Beef Hor Fun | 豉汁/干炒牛肉河",
+          "english_name": "Black Bean/Dry Beef Hor Fun",
+          "chinese_name": "豉汁/干炒牛肉河",
+          "variants": [
+            {
+              "name": "Small",
+              "price_sgd": 12.2,
+              "options": []
+            },
+            {
+              "name": "Medium",
+              "price_sgd": 24.2,
+              "options": []
+            },
+            {
+              "name": "Large",
+              "price_sgd": 36.5,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Black Bean / Dry",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Black Bean  鼓汁",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Dry 干炒",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/09-Black-Bean-Dry-Beef-Hor-Fun-photo-01.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanDryBeefHorFun02af52.jpg",
+              "width": 1440,
+              "height": 1077,
+              "format": "JPEG",
+              "bytes": 202174,
+              "sha256": "9f729fa6bcb74e292f7b7e39c61208bae904682e4c6242d86f3d64ba059c6fbd"
+            },
+            {
+              "file": "01-SIGNATURE/09-Black-Bean-Dry-Beef-Hor-Fun-photo-02.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanDryBeefHorFun3b2d97.jpg",
+              "width": 1440,
+              "height": 1078,
+              "format": "JPEG",
+              "bytes": 218580,
+              "sha256": "277e16a6b517f66e8f2d0a74fc77a8a7246bdc8d8bc8a54e8d12cc8678e8fde7"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81975075fc84cf0175fe74612762d2",
+          "category": "SIGNATURE",
+          "number_in_category": 10,
+          "name": "Black Bean Sauce with Fish Head / Sliced Fish | 豉汁炒鱼头 / 鱼片",
+          "english_name": "Black Bean Sauce with Fish Head / Sliced Fish",
+          "chinese_name": "豉汁炒鱼头 / 鱼片",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 20,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 29.9,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of  Fish Head / Sliced Fish",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Fish Head  鱼头",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Sliced Fish  鱼片",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/10-Black-Bean-Sauce-with-Fish-Head-Sliced-Fish-photo-01.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanSaucewithFishHead8e2087.jpg",
+              "width": 1440,
+              "height": 1072,
+              "format": "JPEG",
+              "bytes": 207618,
+              "sha256": "bffe97e7a2bcd70eda85f84b1fa513d7fb75286da0b74b5e4fc90ec32569a943"
+            },
+            {
+              "file": "01-SIGNATURE/10-Black-Bean-Sauce-with-Fish-Head-Sliced-Fish-photo-02.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanSaucewithFishHeadad53fc.jpg",
+              "width": 1440,
+              "height": 1063,
+              "format": "JPEG",
+              "bytes": 194775,
+              "sha256": "0e1b047ab5f163cfd06305df212aafb7e12dab829572ca6f49db04442faf220d"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818dac7ad65dab017ad72cd2497d6e",
+          "category": "SIGNATURE",
+          "number_in_category": 11,
+          "name": "Curry Fish Head | 咖喱鱼头",
+          "english_name": "Curry Fish Head",
+          "chinese_name": "咖喱鱼头",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 57.3,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/11-Curry-Fish-Head.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/CurryFishHeadf4244f.jpg",
+              "width": 1440,
+              "height": 1039,
+              "format": "JPEG",
+              "bytes": 136220,
+              "sha256": "855ec24fd130d44569f0dae329f813fed14328e02c220443ddece90c474805fb"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818dac7ad65dab017ad72de1b97de9",
+          "category": "SIGNATURE",
+          "number_in_category": 12,
+          "name": "Curry Fish Tail | 咖喱鱼尾",
+          "english_name": "Curry Fish Tail",
+          "chinese_name": "咖喱鱼尾",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 111.9,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/12-Curry-Fish-Tail.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/CurryFishTail69103c.jpg",
+              "width": 1440,
+              "height": 1053,
+              "format": "JPEG",
+              "bytes": 151539,
+              "sha256": "85c83d0057419511b6fe85c06f10e6e2aec6dbec718d23d1872b8867de116d66"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81901d7f696f3b017f69c271351b61",
+          "category": "SIGNATURE",
+          "number_in_category": 13,
+          "name": "Black Bean Sauce with Fish Meat | 豉汁炒鱼鸡",
+          "english_name": "Black Bean Sauce with Fish Meat",
+          "chinese_name": "豉汁炒鱼鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 39.7,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 52.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/13-Black-Bean-Sauce-with-Fish-Meat.png",
+              "source_url": "https://ucarecdn.com/4311acd0-5dd0-4db6-92ce-05ee9eefb898/",
+              "width": 435,
+              "height": 431,
+              "format": "PNG",
+              "bytes": 352595,
+              "sha256": "4074624152065295121917473d871b0d70a6629b600a9d44f2f3f8b3fc2f8429"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818d6c7fe1dcba017fe3416a261e84",
+          "category": "SIGNATURE",
+          "number_in_category": 14,
+          "name": "Deep Fried Fish Meat with Light Sauce | 炸鱼肉",
+          "english_name": "Deep Fried Fish Meat with Light Sauce",
+          "chinese_name": "炸鱼肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 38.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 58,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 76.9,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/14-Deep-Fried-Fish-Meat-with-Light-Sauce.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/DeepFriedFishMeatwithLightSauceab67c8.jpg",
+              "width": 1440,
+              "height": 1120,
+              "format": "JPEG",
+              "bytes": 141240,
+              "sha256": "537668bc242a68845335d948934192f3d0a201e5d70a1c17f4e63e1dc3fe801c"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81930b826ed0b3018271dd047b2972",
+          "category": "SIGNATURE",
+          "number_in_category": 15,
+          "name": "Salted Egg Prawn Ball | 咸蛋黄虾球",
+          "english_name": "Salted Egg Prawn Ball",
+          "chinese_name": "咸蛋黄虾球",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 30.5,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 46.4,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 60.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "01-SIGNATURE/15-Salted-Egg-Prawn-Ball.jpg",
+              "source_url": "https://ucarecdn.com/30566e74-6b83-4eca-9953-19190ae48d8f/-/crop/2557x2554/1136,1022/-/preview/",
+              "width": 2048,
+              "height": 2046,
+              "format": "JPEG",
+              "bytes": 371774,
+              "sha256": "5dd1bb7f8f9c36f6d23dc690d41fda80ebbf947e907058ce9bc02cd692e36807"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81930b826ed0b3018271e01dde2ae2",
+          "category": "SIGNATURE",
+          "number_in_category": 16,
+          "name": "Salted Egg Squid | 咸蛋黄苏东",
+          "english_name": "Salted Egg Squid",
+          "chinese_name": "咸蛋黄苏东",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large (大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "01-SIGNATURE/16-Salted-Egg-Squid--PHOTO-NOT-AVAILABLE.txt"
+        }
+      ]
+    },
+    {
+      "name": "SEAFOOD",
+      "folder": "02-SEAFOOD",
+      "source_category_id": "8a8191e075943aac01759639c87f4463",
+      "items": [
+        {
+          "source_item_id": "8a8191e075943aac0175963c98544631",
+          "category": "SEAFOOD",
+          "number_in_category": 1,
+          "name": "Sea Cucumber Braised Mushrooms | 冬菇海参煲",
+          "english_name": "Sea Cucumber Braised Mushrooms",
+          "chinese_name": "冬菇海参煲",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 42.1,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 84,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "02-SEAFOOD/01-Sea-Cucumber-Braised-Mushrooms.png",
+              "source_url": "https://ucarecdn.com/79c3f608-e52f-4ffd-8d4e-f81553ea28cf/",
+              "width": 360,
+              "height": 358,
+              "format": "PNG",
+              "bytes": 238676,
+              "sha256": "548bf1bba923f7c0db815d2b6cbee748fc82a781ec236a6a772f52dd4a3ba554"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175964092c249b1",
+          "category": "SEAFOOD",
+          "number_in_category": 2,
+          "name": "Roasted Pork Braised Sea Cucumber | 红烧海参煲",
+          "english_name": "Roasted Pork Braised Sea Cucumber",
+          "chinese_name": "红烧海参煲",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 42.1,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 84,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "02-SEAFOOD/02-Roasted-Pork-Braised-Sea-Cucumber--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8a818ecb75957f1501759643b96d3da2",
+          "category": "SEAFOOD",
+          "number_in_category": 3,
+          "name": "Sambal Squid | 叁巴苏冬",
+          "english_name": "Sambal Squid",
+          "chinese_name": "叁巴苏冬",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "02-SEAFOOD/03-Sambal-Squid.png",
+              "source_url": "https://ucarecdn.com/4ccfc850-b749-47c2-9299-c5fa555901e3/",
+              "width": 543,
+              "height": 545,
+              "format": "PNG",
+              "bytes": 537568,
+              "sha256": "ba6e5643e4e0c59788b6fa4891e3da95df1a348ec87eb35a18dbe5605fec2cf3"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818e3280ab5e2b0180ac66b1386ba7",
+          "category": "SEAFOOD",
+          "number_in_category": 4,
+          "name": "Prawn Roll | 虾枣",
+          "english_name": "Prawn Roll",
+          "chinese_name": "虾枣",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 17.3,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 25.4,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 34.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "02-SEAFOOD/04-Prawn-Roll.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/PrawnRoll1fc1b0.jpg",
+              "width": 1440,
+              "height": 1072,
+              "format": "JPEG",
+              "bytes": 167181,
+              "sha256": "6c7418e5e1a510f3b6d5834fd053dc6a89cb302834a0600c3275ecc0a77aaad3"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ccf8270fece018271e99d6a136f",
+          "category": "SEAFOOD",
+          "number_in_category": 5,
+          "name": "Salted Egg Squid | 咸蛋黄苏东",
+          "english_name": "Salted Egg Squid",
+          "chinese_name": "咸蛋黄苏东",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "02-SEAFOOD/05-Salted-Egg-Squid--PHOTO-NOT-AVAILABLE.txt"
+        }
+      ]
+    },
+    {
+      "name": "PRAWN",
+      "folder": "03-PRAWN",
+      "source_category_id": "8a818ec27e8ae888017e8b8720834068",
+      "items": [
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b872069405d",
+          "category": "PRAWN",
+          "number_in_category": 1,
+          "name": "Yam Ring | 芋头圈",
+          "english_name": "Yam Ring",
+          "chinese_name": "芋头圈",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 37.8,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/01-Yam-Ring.jpg",
+              "source_url": "https://ucarecdn.com/ae5e3756-b4d0-4285-b1ab-1fab276a383d/",
+              "width": 750,
+              "height": 750,
+              "format": "JPEG",
+              "bytes": 123037,
+              "sha256": "1a781e5cf735be5ad9687d763afb707740095de833ce092d5700e71897712e38"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b8720734062",
+          "category": "PRAWN",
+          "number_in_category": 2,
+          "name": "Cereal Butter Prawns | 麦片鲜虾",
+          "english_name": "Cereal Butter Prawns",
+          "chinese_name": "麦片鲜虾",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/02-Cereal-Butter-Prawns.png",
+              "source_url": "https://ucarecdn.com/738ac104-4e4e-423a-b4f3-99fbc4cde42c/",
+              "width": 725,
+              "height": 716,
+              "format": "PNG",
+              "bytes": 939369,
+              "sha256": "62a78290361aaba940e3f02bae423b37c74a34f7f8737295439d1cfee96407e8"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b8720534055",
+          "category": "PRAWN",
+          "number_in_category": 3,
+          "name": "Sambal Stir Fried with Prawns Balls | 叁巴炒虾球",
+          "english_name": "Sambal Stir Fried with Prawns Balls",
+          "chinese_name": "叁巴炒虾球",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/03-Sambal-Stir-Fried-with-Prawns-Balls.png",
+              "source_url": "https://ucarecdn.com/83374fba-30ed-462b-9af6-a44bfe5ded90/",
+              "width": 408,
+              "height": 387,
+              "format": "PNG",
+              "bytes": 302964,
+              "sha256": "5f11a3b9cd39d51da2bad6f4df090017a16ba4ce9e07c61c3137e99baac8e7bb"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b87205e405a",
+          "category": "PRAWN",
+          "number_in_category": 4,
+          "name": "Salt & Pepper Prawns | 椒盐鲜虾",
+          "english_name": "Salt & Pepper Prawns",
+          "chinese_name": "椒盐鲜虾",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/04-Salt-Pepper-Prawns.png",
+              "source_url": "https://ucarecdn.com/2f7ad766-0456-4cb0-adf7-de445b42689d/",
+              "width": 387,
+              "height": 391,
+              "format": "PNG",
+              "bytes": 262537,
+              "sha256": "7951b9ce8646db2ded12f535ea319307282dff51da183fa2f756b2bdc577f6fa"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b87207e4067",
+          "category": "PRAWN",
+          "number_in_category": 5,
+          "name": "Sweet & Sour Prawns Balls | 酸甜虾球",
+          "english_name": "Sweet & Sour Prawns Balls",
+          "chinese_name": "酸甜虾球",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/05-Sweet-Sour-Prawns-Balls.png",
+              "source_url": "https://ucarecdn.com/bb34232e-8b9c-49c3-9972-bb00e0ca8d67/",
+              "width": 341,
+              "height": 339,
+              "format": "PNG",
+              "bytes": 223379,
+              "sha256": "c6540505c91f5ca7847b552c69e969e3e4c38e645ca23a345c8187543dc81e99"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b87203e404c",
+          "category": "PRAWN",
+          "number_in_category": 6,
+          "name": "Broccoli Stir Fried with Prawns Balls | 西兰花炒虾球",
+          "english_name": "Broccoli Stir Fried with Prawns Balls",
+          "chinese_name": "西兰花炒虾球",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/06-Broccoli-Stir-Fried-with-Prawns-Balls.png",
+              "source_url": "https://ucarecdn.com/1f6b5431-4a71-44a2-8e19-78f481bf8975/",
+              "width": 539,
+              "height": 537,
+              "format": "PNG",
+              "bytes": 527551,
+              "sha256": "67a8fb91996fa07414e143b05ef7473848ee5bcfe1d9cee636c95ac740aeeff2"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b8720494050",
+          "category": "PRAWN",
+          "number_in_category": 7,
+          "name": "Stir Fried Light Sauce with Big Prawn | 干煎大虾碌",
+          "english_name": "Stir Fried Light Sauce with Big Prawn",
+          "chinese_name": "干煎大虾碌",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 48.3,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Add-on Big Prawn",
+              "minimum_quantity": 0,
+              "maximum_quantity": 10,
+              "choices": [
+                {
+                  "name": "Big Prawn  加大虾",
+                  "price_sgd": 12.65,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "03-PRAWN/07-Stir-Fried-Light-Sauce-with-Big-Prawn.png",
+              "source_url": "https://ucarecdn.com/d9b30666-0e8a-4190-84c4-54b87af7b8ea/",
+              "width": 5454,
+              "height": 4036,
+              "format": "PNG",
+              "bytes": 1626301,
+              "sha256": "01fcbc6a69140aaa827a214de8e56fbf109573e8272e92859afdeb555915f3c8"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818c30827059fd018271e4ed2c6275",
+          "category": "PRAWN",
+          "number_in_category": 8,
+          "name": "Salted Egg Prawn Ball | 咸蛋黄虾球",
+          "english_name": "Salted Egg Prawn Ball",
+          "chinese_name": "咸蛋黄虾球",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 30.3,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 45.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 60.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/08-Salted-Egg-Prawn-Ball.png",
+              "source_url": "https://ucarecdn.com/4eee6f36-63bf-42b2-93d6-dddc82b0c0d3/",
+              "width": 339,
+              "height": 337,
+              "format": "PNG",
+              "bytes": 218683,
+              "sha256": "200ace6bcfe6446558c16b7499548ae0fae69b87986dd6050437b6fdf8e7899f"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602999badb6dc019bb2eff81e6a0e",
+          "category": "PRAWN",
+          "number_in_category": 9,
+          "name": "Spring Onion ( Medium Size )Prawn | 姜葱炒明虾",
+          "english_name": "Spring Onion ( Medium Size )Prawn",
+          "chinese_name": "姜葱炒明虾",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 57.9,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "03-PRAWN/09-Spring-Onion-Medium-Size-Prawn.png",
+              "source_url": "https://ucarecdn.com/28cc2416-f83a-4eb1-a3c2-fe9392371c4c/",
+              "width": 552,
+              "height": 533,
+              "format": "PNG",
+              "bytes": 537043,
+              "sha256": "947f7b5052de1f2e53b6da2125d875fa645a5ad93c01fc16a1fc37a8dbcdd809"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "FROGS",
+      "folder": "04-FROGS",
+      "source_category_id": "8a818ec27e8ae888017e8b86c1b1402e",
+      "items": [
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b86c18f4024",
+          "category": "FROGS",
+          "number_in_category": 1,
+          "name": "Stir Fried Frogs With Spring Onion | 姜葱炒田鸡",
+          "english_name": "Stir Fried Frogs With Spring Onion",
+          "chinese_name": "姜葱炒田鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "04-FROGS/01-Stir-Fried-Frogs-With-Spring-Onion.png",
+              "source_url": "https://ucarecdn.com/bad55b76-1fdb-462f-8ef0-2f20160a3726/",
+              "width": 397,
+              "height": 397,
+              "format": "PNG",
+              "bytes": 324592,
+              "sha256": "ee64f58ba6d9699aa2af28b37830bcb4ed79ff6910a11808379610ae76ad2fff"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b86c1994027",
+          "category": "FROGS",
+          "number_in_category": 2,
+          "name": "Deep Fried Frogs With Ginger | 姜片炸田鸡",
+          "english_name": "Deep Fried Frogs With Ginger",
+          "chinese_name": "姜片炸田鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "04-FROGS/02-Deep-Fried-Frogs-With-Ginger.png",
+              "source_url": "https://ucarecdn.com/6b5158e4-c948-44e0-8510-9c8c8f0076f6/",
+              "width": 8938,
+              "height": 6617,
+              "format": "PNG",
+              "bytes": 1099437,
+              "sha256": "1780e2369760fa9e74cfbba93720b3b59863f6912de6152f47a971a6fc1840da"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b86c1a3402a",
+          "category": "FROGS",
+          "number_in_category": 3,
+          "name": "Black Bean Stir Fried With Frogs | 豉汁炒田鸡",
+          "english_name": "Black Bean Stir Fried With Frogs",
+          "chinese_name": "豉汁炒田鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "04-FROGS/03-Black-Bean-Stir-Fried-With-Frogs--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8a818ec27e8ae888017e8b86c1ad402d",
+          "category": "FROGS",
+          "number_in_category": 4,
+          "name": "‘Kung Pao’ Frogs With Fried With Dried Chilli | 宫宝田鸡",
+          "english_name": "‘Kung Pao’ Frogs With Fried With Dried Chilli",
+          "chinese_name": "宫宝田鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 29.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 43.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 58,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "04-FROGS/04-Kung-Pao-Frogs-With-Fried-With-Dried-Chilli.png",
+              "source_url": "https://ucarecdn.com/e5502007-f1cc-456a-a610-27677717cb27/",
+              "width": 460,
+              "height": 460,
+              "format": "PNG",
+              "bytes": 443253,
+              "sha256": "e74291e67043e5cc3cd679fcd06fe50beeb91f05932426112083b6dafb6dd8b7"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "PORK",
+      "folder": "05-PORK",
+      "source_category_id": "8a8195a675955ebc01759638fc514167",
+      "items": [
+        {
+          "source_item_id": "8a8191e075943aac0175968194007d05",
+          "category": "PORK",
+          "number_in_category": 1,
+          "name": "Sweet & Sour Pork | 咕酪肉",
+          "english_name": "Sweet & Sour Pork",
+          "chinese_name": "咕酪肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "05-PORK/01-Sweet-Sour-Pork.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/SweetSourPorkf92992.jpg",
+              "width": 1440,
+              "height": 1191,
+              "format": "JPEG",
+              "bytes": 187582,
+              "sha256": "09f16de3b0f2808dab98cb7031ad548881b14bd771766da92ee1e0945716d99c"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191bf75957f8f0175968264d101a4",
+          "category": "PORK",
+          "number_in_category": 2,
+          "name": "Bittergourd Pork Ribs with Black Bean Sauce | 苦瓜豉汁闷排骨",
+          "english_name": "Bittergourd Pork Ribs with Black Bean Sauce",
+          "chinese_name": "苦瓜豉汁闷排骨",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "05-PORK/02-Bittergourd-Pork-Ribs-with-Black-Bean-Sauce.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BittergourdPorkRibswithBlackBeanSauce58d7bc.jpg",
+              "width": 1440,
+              "height": 1072,
+              "format": "JPEG",
+              "bytes": 204054,
+              "sha256": "6136349367f5935ee73b35430c20ae74b29ce679e4add74b0f9be54f8a1d09e0"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8195a675955ebc01759682ebe46d38",
+          "category": "PORK",
+          "number_in_category": 3,
+          "name": "Sweet & Sour Pork Chop | 酸甜排骨王",
+          "english_name": "Sweet & Sour Pork Chop",
+          "chinese_name": "酸甜排骨王",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "05-PORK/03-Sweet-Sour-Pork-Chop.png",
+              "source_url": "https://ucarecdn.com/cd1c95b1-fb8e-493f-89b8-ddd76e734478/",
+              "width": 545,
+              "height": 545,
+              "format": "PNG",
+              "bytes": 563117,
+              "sha256": "86afed602a645cb87cdc4fb2d1452441421ebd56751f08b8064b78e7d18be0cf"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818cec75957f0f0175968411f662f6",
+          "category": "PORK",
+          "number_in_category": 4,
+          "name": "Kai Lan Stir Fried with Roasted Pork | 芥兰炒烧肉",
+          "english_name": "Kai Lan Stir Fried with Roasted Pork",
+          "chinese_name": "芥兰炒烧肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "05-PORK/04-Kai-Lan-Stir-Fried-with-Roasted-Pork.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/KaiLanStirFriedwithRoastedPork6ffbe3.jpg",
+              "width": 1440,
+              "height": 1072,
+              "format": "JPEG",
+              "bytes": 151312,
+              "sha256": "c483d5503f66db1b2860dcd3eb6e9124be640dacac9f13227f9520b2cf3f49a7"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191bf75957f8f0175968492160338",
+          "category": "PORK",
+          "number_in_category": 5,
+          "name": "Salted Fish Steam Minced Pork | 咸鱼蒸肉碎",
+          "english_name": "Salted Fish Steam Minced Pork",
+          "chinese_name": "咸鱼蒸肉碎",
+          "variants": [
+            {
+              "name": "Small(小）",
+              "price_sgd": 20,
+              "options": []
+            },
+            {
+              "name": "Medium(中）",
+              "price_sgd": 30.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "05-PORK/05-Salted-Fish-Steam-Minced-Pork.png",
+              "source_url": "https://ucarecdn.com/c0e32736-51b6-49d4-be1c-c3aaa04d8125/",
+              "width": 385,
+              "height": 385,
+              "format": "PNG",
+              "bytes": 298426,
+              "sha256": "2bb6c0f39f9696dc32975db87ea027a7dae9061a90cf7535a3c62d3f84b0e3de"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8195a675955ebc01759684f9d46e68",
+          "category": "PORK",
+          "number_in_category": 6,
+          "name": "Fried Crispy Roast Pork with Black Sauce | 香爆烧肉",
+          "english_name": "Fried Crispy Roast Pork with Black Sauce",
+          "chinese_name": "香爆烧肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "05-PORK/06-Fried-Crispy-Roast-Pork-with-Black-Sauce.jpg",
+              "source_url": "https://ucarecdn.com/3f008506-20b7-4dfa-8c4b-4acbd0bb65f5/-/preview/",
+              "width": 300,
+              "height": 200,
+              "format": "JPEG",
+              "bytes": 15287,
+              "sha256": "a9faf085681a5fc5a0dc8f39b7b23d17d3bed10c5ffcb9b559451c0b556e6249"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "FISH",
+      "folder": "06-FISH",
+      "source_category_id": "8a81904d7e8adf08017e8b87e6f7432a",
+      "items": [
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6a0430e",
+          "category": "FISH",
+          "number_in_category": 1,
+          "name": "Deep Fried Fish Meat with Light Sauce | 炸鱼肉",
+          "english_name": "Deep Fried Fish Meat with Light Sauce",
+          "chinese_name": "炸鱼肉",
+          "variants": [
+            {
+              "name": "Small(小·)",
+              "price_sgd": 38.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 58,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 76.9,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/01-Deep-Fried-Fish-Meat-with-Light-Sauce.png",
+              "source_url": "https://ucarecdn.com/4e40c3e4-6700-4b68-820f-8b1be25c590f/",
+              "width": 312,
+              "height": 316,
+              "format": "PNG",
+              "bytes": 202099,
+              "sha256": "45da2de75e6dfc4252f2f6bcad9be650c23bbb76bae2a021aac67b65d6ee3afe"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6ab4311",
+          "category": "FISH",
+          "number_in_category": 2,
+          "name": "HK Style Steam Fish Tail | 港 / 潮式蒸鱼尾",
+          "english_name": "HK Style Steam Fish Tail",
+          "chinese_name": "港 / 潮式蒸鱼尾",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 111.9,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/02-HK-Style-Steam-Fish-Tail.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/HKStyleSteamFishTail0e7b94.jpg",
+              "width": 1440,
+              "height": 1016,
+              "format": "JPEG",
+              "bytes": 131146,
+              "sha256": "15dd878b1f147929c393225f81cced5c49e7e18c7248bf1211a19920b5f628ef"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6de431f",
+          "category": "FISH",
+          "number_in_category": 3,
+          "name": "Black Bean Sauce with Fish Head | 豉汁炒鱼头",
+          "english_name": "Black Bean Sauce with Fish Head",
+          "chinese_name": "豉汁炒鱼头",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/03-Black-Bean-Sauce-with-Fish-Head.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanSaucewithFishHead8d5031.jpg",
+              "width": 1440,
+              "height": 1099,
+              "format": "JPEG",
+              "bytes": 195875,
+              "sha256": "e71521619fc90af755b0138ec2a9b58fc0454f7135e40c17c1c14540013e7d2f"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6e94324",
+          "category": "FISH",
+          "number_in_category": 4,
+          "name": "Stir Fried Kai Lan with Sliced Fish | 芥兰炒鱼片",
+          "english_name": "Stir Fried Kai Lan with Sliced Fish",
+          "chinese_name": "芥兰炒鱼片",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/04-Stir-Fried-Kai-Lan-with-Sliced-Fish.png",
+              "source_url": "https://ucarecdn.com/5cb26cb2-c786-435b-b162-8029a69f493e/",
+              "width": 402,
+              "height": 402,
+              "format": "PNG",
+              "bytes": 295108,
+              "sha256": "1a1e783182cd5639264a36dedf36e0ec75ddda4fec90e15451f19b7b40c4c718"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6f54329",
+          "category": "FISH",
+          "number_in_category": 5,
+          "name": "Stir Fried Fish Meat with Sambal Kaffir Leaves | 甘香炒鱼肉",
+          "english_name": "Stir Fried Fish Meat with Sambal Kaffir Leaves",
+          "chinese_name": "甘香炒鱼肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 39.7,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 52.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/05-Stir-Fried-Fish-Meat-with-Sambal-Kaffir-Leaves.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/StirFriedFishMeatwithSambalKaffirLeaves465189.jpg",
+              "width": 1440,
+              "height": 1001,
+              "format": "JPEG",
+              "bytes": 172708,
+              "sha256": "c55ccefca3b34b704763619716f48c6a898ff804502e2d91398fb6d7c372571e"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6b74314",
+          "category": "FISH",
+          "number_in_category": 6,
+          "name": "HK Style Steam Fish Head | 港/潮式蒸鱼头",
+          "english_name": "HK Style Steam Fish Head",
+          "chinese_name": "港/潮式蒸鱼头",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 57.3,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/06-HK-Style-Steam-Fish-Head-photo-01.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/HKStyleSteamFishHead49db04.jpg",
+              "width": 1440,
+              "height": 1128,
+              "format": "JPEG",
+              "bytes": 130243,
+              "sha256": "298ee0905f6ea62e06b70ac5063d4c5547cea5b8a663ebb1c3e40e0fb4290ec5"
+            },
+            {
+              "file": "06-FISH/06-HK-Style-Steam-Fish-Head-photo-02.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/HKStyleSteamFishHeadc27427.jpg",
+              "width": 1440,
+              "height": 1037,
+              "format": "JPEG",
+              "bytes": 147294,
+              "sha256": "8f7faf899de401b6be14076f8e5feacd2f31ac514c0d18340fd90bbfce2a21dc"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6c34317",
+          "category": "FISH",
+          "number_in_category": 7,
+          "name": "Curry Fish Head | 咖喱鱼头",
+          "english_name": "Curry Fish Head",
+          "chinese_name": "咖喱鱼头",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 57.3,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/07-Curry-Fish-Head.png",
+              "source_url": "https://ucarecdn.com/a4a4600e-b87b-4709-b83c-865dbf5e1bed/",
+              "width": 377,
+              "height": 377,
+              "format": "PNG",
+              "bytes": 284193,
+              "sha256": "c5747e5202a49b4877d76b442e61bce4043403d388aa464bb5784446ce1c72ab"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b87e6d1431a",
+          "category": "FISH",
+          "number_in_category": 8,
+          "name": "Curry Fish Tail | 咖喱鱼尾",
+          "english_name": "Curry Fish Tail",
+          "chinese_name": "咖喱鱼尾",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 111.9,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/08-Curry-Fish-Tail.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/CurryFishTail779820.jpg",
+              "width": 1440,
+              "height": 908,
+              "format": "JPEG",
+              "bytes": 129032,
+              "sha256": "ac74b904d9f84af2b21c8c681ef7cefa60a91b404ead2833400245e854ee4a8d"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8193c97f68392e017f69c5ffca18b0",
+          "category": "FISH",
+          "number_in_category": 9,
+          "name": "Black Bean Sauce with Fish Meat | 豉汁炒鱼鸡",
+          "english_name": "Black Bean Sauce with Fish Meat",
+          "chinese_name": "豉汁炒鱼鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 39.7,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 52.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/09-Black-Bean-Sauce-with-Fish-Meat.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanSaucewithFishMeat7cc4df.jpg",
+              "width": 1440,
+              "height": 1077,
+              "format": "JPEG",
+              "bytes": 133432,
+              "sha256": "78207a4b142fb108f39ac040dae09577944f94a024716007a7bb296121a37e69"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818e8f811f749201811fc84f6118c9",
+          "category": "FISH",
+          "number_in_category": 10,
+          "name": "Sweet & Sour Sliced Fish | 酸甜鱼片",
+          "english_name": "Sweet & Sour Sliced Fish",
+          "chinese_name": "酸甜鱼片",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/10-Sweet-Sour-Sliced-Fish.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/SweetSourSlicedFish0045f7.jpg",
+              "width": 1440,
+              "height": 1119,
+              "format": "JPEG",
+              "bytes": 165452,
+              "sha256": "91f4f037ebb4198731fd3b3d991832012e3eb2410ce9cef4e9a8f64a736cef49"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602999badb6dc019bb3111ddf5141",
+          "category": "FISH",
+          "number_in_category": 11,
+          "name": "Stir-fry Spring Onion with Sliced Fish | 姜葱炒鱼片",
+          "english_name": "Stir-fry Spring Onion with Sliced Fish",
+          "chinese_name": "姜葱炒鱼片",
+          "variants": [
+            {
+              "name": "Small (小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium (中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large (大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/11-Stir-fry-Spring-Onion-with-Sliced-Fish.png",
+              "source_url": "https://ucarecdn.com/86eeb9fc-809b-462a-95a0-86d0f17e1bde/",
+              "width": 402,
+              "height": 402,
+              "format": "PNG",
+              "bytes": 295108,
+              "sha256": "1a1e783182cd5639264a36dedf36e0ec75ddda4fec90e15451f19b7b40c4c718"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa600049d93a5cc019d94cdfcc37892",
+          "category": "FISH",
+          "number_in_category": 12,
+          "name": "Deep Fried \"Yu Gai\"| 香脆炸鱼鸡",
+          "english_name": "Deep Fried \"Yu Gai\"",
+          "chinese_name": "香脆炸鱼鸡",
+          "variants": [
+            {
+              "name": "Small(小）",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium(中）",
+              "price_sgd": 39.7,
+              "options": []
+            },
+            {
+              "name": "Large(大）",
+              "price_sgd": 52.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "06-FISH/12-Deep-Fried-Yu-Gai.png",
+              "source_url": "https://ucarecdn.com/2f4ef959-ca9e-4daa-96bd-38438ecded85/",
+              "width": 400,
+              "height": 266,
+              "format": "PNG",
+              "bytes": 222375,
+              "sha256": "1d5e39986873b765ca186d599779689029910e23377105fd5eea60bea774a0bf"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "BEEF",
+      "folder": "07-BEEF",
+      "source_category_id": "8a81904d7e8adf08017e8b88f99d43f4",
+      "items": [
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b88f8aa43ee",
+          "category": "BEEF",
+          "number_in_category": 1,
+          "name": "Kai Lan Stir Fried with Beef | 芥兰炒牛肉",
+          "english_name": "Kai Lan Stir Fried with Beef",
+          "chinese_name": "芥兰炒牛肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "07-BEEF/01-Kai-Lan-Stir-Fried-with-Beef.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/KaiLanStirFriedwithBeefc23c11.jpg",
+              "width": 1440,
+              "height": 994,
+              "format": "JPEG",
+              "bytes": 127574,
+              "sha256": "b9eafd2ef060217daa8fca48036807794104bab9056f6a00295bbd6d590073c1"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b88f87e43e9",
+          "category": "BEEF",
+          "number_in_category": 2,
+          "name": "Black Bean Stir Fried with Beef | 豉汁炒牛肉",
+          "english_name": "Black Bean Stir Fried with Beef",
+          "chinese_name": "豉汁炒牛肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "07-BEEF/02-Black-Bean-Stir-Fried-with-Beef--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b88f82543e4",
+          "category": "BEEF",
+          "number_in_category": 3,
+          "name": "Black Pepper Beef | 黑椒炒牛肉",
+          "english_name": "Black Pepper Beef",
+          "chinese_name": "黑椒炒牛肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "07-BEEF/03-Black-Pepper-Beef.png",
+              "source_url": "https://ucarecdn.com/0fc8d9e9-d8a8-4c9e-a914-57c347c7a873/",
+              "width": 424,
+              "height": 414,
+              "format": "PNG",
+              "bytes": 316425,
+              "sha256": "780fa45512849aeab34bb4479b8bd7a263449455cda8917cf2323cea9ce57d26"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b88f8e243f3",
+          "category": "BEEF",
+          "number_in_category": 4,
+          "name": "Stir Fried Beef with Spring Onion | 姜葱炒牛肉",
+          "english_name": "Stir Fried Beef with Spring Onion",
+          "chinese_name": "姜葱炒牛肉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "07-BEEF/04-Stir-Fried-Beef-with-Spring-Onion.png",
+              "source_url": "https://ucarecdn.com/9844d195-87a8-4b53-ae4f-d86ec1aee2d1/",
+              "width": 377,
+              "height": 335,
+              "format": "PNG",
+              "bytes": 239057,
+              "sha256": "4c3b46d52c132b952ad52811b01baf88739c9bd1290b2361545ff42e40c8597c"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "CHICKEN",
+      "folder": "08-CHICKEN",
+      "source_category_id": "8a8191bf75957f8f017596397d9647b5",
+      "items": [
+        {
+          "source_item_id": "8a8191bf75957f8f01759672dd807519",
+          "category": "CHICKEN",
+          "number_in_category": 1,
+          "name": "Prawn Paste Chicken | 虾酱鸡",
+          "english_name": "Prawn Paste Chicken",
+          "chinese_name": "虾酱鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 20,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 29.9,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "08-CHICKEN/01-Prawn-Paste-Chicken.jpg",
+              "source_url": "https://ucarecdn.com/d5709a32-eb33-4e52-8579-0f611d0dd94a/",
+              "width": 864,
+              "height": 576,
+              "format": "JPEG",
+              "bytes": 478081,
+              "sha256": "48bcd4e57aee3e6717f882ff7fd8803decfd636a295814ca472db24ce3d74655"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ecb75957f150175967371005a20",
+          "category": "CHICKEN",
+          "number_in_category": 2,
+          "name": "Claypot Thai Style Chicken | 甘香鸡",
+          "english_name": "Claypot Thai Style Chicken",
+          "chinese_name": "甘香鸡",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 20,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 29.9,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "08-CHICKEN/02-Claypot-Thai-Style-Chicken.png",
+              "source_url": "https://ucarecdn.com/b1b4fd30-06e7-42c4-b3ee-8213479357fc/",
+              "width": 368,
+              "height": 375,
+              "format": "PNG",
+              "bytes": 279305,
+              "sha256": "c5e632069911f74766e4c1f5ded47af27f32a54010f54367fc140194af224fb8"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac01759673ff247361",
+          "category": "CHICKEN",
+          "number_in_category": 3,
+          "name": "Golden Dragon Chicken | 脆皮金龙鸡",
+          "english_name": "Golden Dragon Chicken",
+          "chinese_name": "脆皮金龙鸡",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 46.4,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "08-CHICKEN/03-Golden-Dragon-Chicken.png",
+              "source_url": "https://ucarecdn.com/d985976a-5134-4f8b-bcfc-22a2055a0bfe/",
+              "width": 6170,
+              "height": 4730,
+              "format": "PNG",
+              "bytes": 1850848,
+              "sha256": "631525685203fb1567465b86ff64b720c6350f03a264643e5010d66fcd8b8aa7"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ecb75957f150175967470e75aa9",
+          "category": "CHICKEN",
+          "number_in_category": 4,
+          "name": "Crispy Roasted Chicken | 脆皮烧鸡",
+          "english_name": "Crispy Roasted Chicken",
+          "chinese_name": "脆皮烧鸡",
+          "variants": [
+            {
+              "name": "Half(半只)",
+              "price_sgd": 31.6,
+              "options": []
+            },
+            {
+              "name": "One Whole(一只)",
+              "price_sgd": 63.2,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "08-CHICKEN/04-Crispy-Roasted-Chicken.png",
+              "source_url": "https://ucarecdn.com/9641d9fe-6966-4cca-8c3c-b4de212e4754/",
+              "width": 525,
+              "height": 525,
+              "format": "PNG",
+              "bytes": 450044,
+              "sha256": "6ba0cc73676775b17e281abbb7c3b0a3b68d9bc37c080573f563549249b14b56"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602999badb6dc019bb307807135cd",
+          "category": "CHICKEN",
+          "number_in_category": 5,
+          "name": "Cereal Chicken | 麦片鸡丁",
+          "english_name": "Cereal Chicken",
+          "chinese_name": "麦片鸡丁",
+          "variants": [
+            {
+              "name": "Small (小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium (中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large (大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "08-CHICKEN/05-Cereal-Chicken--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8aa602449badb70c019bb30a77fd10a5",
+          "category": "CHICKEN",
+          "number_in_category": 6,
+          "name": "Kung Bao Chicken | 宫保鸡丁",
+          "english_name": "Kung Bao Chicken",
+          "chinese_name": "宫保鸡丁",
+          "variants": [
+            {
+              "name": "Small (小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium (中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large (大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "08-CHICKEN/06-Kung-Bao-Chicken.png",
+              "source_url": "https://ucarecdn.com/06a0300d-e8d2-4ef2-b2df-54b7ac11f808/",
+              "width": 337,
+              "height": 337,
+              "format": "PNG",
+              "bytes": 225428,
+              "sha256": "6ea303d86a8ea9d82e0ec95adcbeb73fc1738eace87a1305f8b1ec051503cf57"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602449badb70c019bb30b95ae13da",
+          "category": "CHICKEN",
+          "number_in_category": 7,
+          "name": "Sweet & Sour Chicken | 咕噜鸡丁",
+          "english_name": "Sweet & Sour Chicken",
+          "chinese_name": "咕噜鸡丁",
+          "variants": [
+            {
+              "name": "Small (小)",
+              "price_sgd": 19.9,
+              "options": []
+            },
+            {
+              "name": "Medium (中)",
+              "price_sgd": 30.6,
+              "options": []
+            },
+            {
+              "name": "Large (大)",
+              "price_sgd": 39.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "08-CHICKEN/07-Sweet-Sour-Chicken--PHOTO-NOT-AVAILABLE.txt"
+        }
+      ]
+    },
+    {
+      "name": "RICE",
+      "folder": "09-RICE",
+      "source_category_id": "8a818ecb75957f15017596398aa63792",
+      "items": [
+        {
+          "source_item_id": "8a8195a675955ebc0175965c6a5c5778",
+          "category": "RICE",
+          "number_in_category": 1,
+          "name": "Sweet & Sour Pork Rice | 酸甜咕酪肉饭",
+          "english_name": "Sweet & Sour Pork Rice",
+          "chinese_name": "酸甜咕酪肉饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 10.8,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/01-Sweet-Sour-Pork-Rice.png",
+              "source_url": "https://ucarecdn.com/1e5ef048-fade-4b10-9361-93bca6420023/",
+              "width": 231,
+              "height": 231,
+              "format": "PNG",
+              "bytes": 109933,
+              "sha256": "086f650770ebdae37d365eb7e0cd74f9b28869e7a8a165a830f316b3cd1166c0"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175965ca25a61de",
+          "category": "RICE",
+          "number_in_category": 2,
+          "name": "Roasted Pork Tofu Rice | 烧肉豆腐饭",
+          "english_name": "Roasted Pork Tofu Rice",
+          "chinese_name": "烧肉豆腐饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.2,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/02-Roasted-Pork-Tofu-Rice.png",
+              "source_url": "https://ucarecdn.com/c50d367a-bb71-45f8-ac9b-9f16cb01395f/",
+              "width": 320,
+              "height": 320,
+              "format": "PNG",
+              "bytes": 204737,
+              "sha256": "4a87777f6e26ec4da5279cc2229dc87ed178646b754018bf6a84ca5e859c2b2c"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191bf75957f8f0175965cd95a64e4",
+          "category": "RICE",
+          "number_in_category": 3,
+          "name": "Thai Style Fried Rice | 泰式炒饭",
+          "english_name": "Thai Style Fried Rice",
+          "chinese_name": "泰式炒饭",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 24.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 36.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/03-Thai-Style-Fried-Rice.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/ThaiStyleFriedRice92d71d.jpg",
+              "width": 1440,
+              "height": 1046,
+              "format": "JPEG",
+              "bytes": 175004,
+              "sha256": "4d78f6f2505a6cb3eca78bb20ecef94d74b8d1bd773d7b8764aa1c2b0ba48ad7"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175965d3c0f624a",
+          "category": "RICE",
+          "number_in_category": 4,
+          "name": "Kai Lan Roasted Pork Rice | 芥兰烧肉饭",
+          "english_name": "Kai Lan Roasted Pork Rice",
+          "chinese_name": "芥兰烧肉饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.8,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/04-Kai-Lan-Roasted-Pork-Rice.png",
+              "source_url": "https://ucarecdn.com/cec740f2-2b72-448a-b5dd-4a959fefddee/",
+              "width": 227,
+              "height": 227,
+              "format": "PNG",
+              "bytes": 107989,
+              "sha256": "2b72e227b58343075fc7b71ed73997b3f0cb4531c119125e84ab6dda2ba47ff5"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175965d81bc6271",
+          "category": "RICE",
+          "number_in_category": 5,
+          "name": "'Yang Zhuo’ Fried Rice | 杨州炒饭",
+          "english_name": "'Yang Zhuo’ Fried Rice",
+          "chinese_name": "杨州炒饭",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 30.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/05-Yang-Zhuo-Fried-Rice.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/YangZhuoFriedRice330dd5.jpg",
+              "width": 1440,
+              "height": 980,
+              "format": "JPEG",
+              "bytes": 180056,
+              "sha256": "75e181e0bc73d40de0d704671e7f751cf74b0b7336a1bbce3a0aebfc9670d5d3"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8193cd75b465310175b645d3006ede",
+          "category": "RICE",
+          "number_in_category": 6,
+          "name": "'Salted Fish’ Fried Rice | 咸鱼炒饭",
+          "english_name": "'Salted Fish’ Fried Rice",
+          "chinese_name": "咸鱼炒饭",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 21.5,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 33,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/06-Salted-Fish-Fried-Rice.png",
+              "source_url": "https://ucarecdn.com/64524cce-2653-48d8-b633-44ee4a6908df/",
+              "width": 216,
+              "height": 216,
+              "format": "PNG",
+              "bytes": 105509,
+              "sha256": "29676e9533fb78bf4d09b40a63939b2412081c677a501f2cf77e9f9ad3d84f5c"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818cec75957f0f0175965e38cb4de5",
+          "category": "RICE",
+          "number_in_category": 7,
+          "name": "Kai Lan Sliced Fish/Beef Rice | 芥兰鱼片/牛肉饭",
+          "english_name": "Kai Lan Sliced Fish/Beef Rice",
+          "chinese_name": "芥兰鱼片/牛肉饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.2,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Kai Lan Meat",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Sliced Fish  鱼片",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Beef  牛肉",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "09-RICE/07-Kai-Lan-Sliced-Fish-Beef-Rice-photo-01.png",
+              "source_url": "https://ucarecdn.com/e34e4fc8-5b4c-4f1c-bb3e-623dbc74c649/",
+              "width": 285,
+              "height": 285,
+              "format": "PNG",
+              "bytes": 167183,
+              "sha256": "0890425c5b40b9c61d82278dc344d2836693eb51e975d21732131fb2343878e8"
+            },
+            {
+              "file": "09-RICE/07-Kai-Lan-Sliced-Fish-Beef-Rice-photo-02.png",
+              "source_url": "https://ucarecdn.com/5c46c907-c26a-4c8d-804d-e17715eb7e00/",
+              "width": 245,
+              "height": 245,
+              "format": "PNG",
+              "bytes": 126490,
+              "sha256": "4b797dc0ac07488872e31e3e65d94daf082a1e5dd2a9c39649df8db9d9e81a23"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191bf75957f8f0175966057bb6741",
+          "category": "RICE",
+          "number_in_category": 8,
+          "name": "Seafoods & Pork Braised Rice | 什锦滑蛋绘饭",
+          "english_name": "Seafoods & Pork Braised Rice",
+          "chinese_name": "什锦滑蛋绘饭",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.3,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 30.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/08-Seafoods-Pork-Braised-Rice.png",
+              "source_url": "https://ucarecdn.com/44a71aeb-5bf5-4a57-8a62-57fe44d1ddc5/",
+              "width": 341,
+              "height": 341,
+              "format": "PNG",
+              "bytes": 237487,
+              "sha256": "4fba5c0d36c8647dd059745a355e2c009b2821818463fc19c50c6d6a1a1ae32e"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ecb75957f1501759660cc164f89",
+          "category": "RICE",
+          "number_in_category": 9,
+          "name": "Seafoods Fried Rice | 海鲜炒饭",
+          "english_name": "Seafoods Fried Rice",
+          "chinese_name": "海鲜炒饭",
+          "variants": [
+            {
+              "name": "Small",
+              "price_sgd": 10.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 21.5,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 32.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/09-Seafoods-Fried-Rice.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/SeafoodsFriedRicecba8aa.jpg",
+              "width": 1440,
+              "height": 1142,
+              "format": "JPEG",
+              "bytes": 224655,
+              "sha256": "079d04471fc9351c5b78edfe0467fd77449da09f6d8133e39f6d3bb96b8050a5"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ecb75957f15017596615fba4fd0",
+          "category": "RICE",
+          "number_in_category": 10,
+          "name": "Black Bean Sliced Fish Rice | 豉汁鱼片饭",
+          "english_name": "Black Bean Sliced Fish Rice",
+          "chinese_name": "豉汁鱼片饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.2,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/10-Black-Bean-Sliced-Fish-Rice.png",
+              "source_url": "https://ucarecdn.com/eef4976b-16c5-408f-82b8-09e32fdac516/",
+              "width": 393,
+              "height": 393,
+              "format": "PNG",
+              "bytes": 306095,
+              "sha256": "f19264b23b62334daf5508b203db46aaaba3a7f9fdafa973ed384015fdb6aac6"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ecb75957f15017596619c795012",
+          "category": "RICE",
+          "number_in_category": 11,
+          "name": "Seafoods & Pork Soup Rice | 上汤什锦饭",
+          "english_name": "Seafoods & Pork Soup Rice",
+          "chinese_name": "上汤什锦饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.2,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/11-Seafoods-Pork-Soup-Rice.png",
+              "source_url": "https://ucarecdn.com/06ee20bc-2196-4ebc-92ed-3851b13bdb61/",
+              "width": 414,
+              "height": 414,
+              "format": "PNG",
+              "bytes": 304413,
+              "sha256": "0197f7c45fb82354420f6c4906305f8bc06bbe6c200180c41ed9d156e0bab960"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8195a675955ebc01759661d0d15a70",
+          "category": "RICE",
+          "number_in_category": 12,
+          "name": "Beef Fried Rice | 牛肉炒饭",
+          "english_name": "Beef Fried Rice",
+          "chinese_name": "牛肉炒饭",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 24.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 36.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/12-Beef-Fried-Rice.png",
+              "source_url": "https://ucarecdn.com/12eb2df2-41f3-443d-92e0-d8bbfbe1c11b/",
+              "width": 245,
+              "height": 245,
+              "format": "PNG",
+              "bytes": 137297,
+              "sha256": "0063326c98148c95d3ec297ba22aad60d46abf5fbe2950ae70994ae29b89cdba"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191ed80f150550180f213ff522e1b",
+          "category": "RICE",
+          "number_in_category": 13,
+          "name": "Black Bean Sauce Roasted Pork Rice | 香爆烧肉饭",
+          "english_name": "Black Bean Sauce Roasted Pork Rice",
+          "chinese_name": "香爆烧肉饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.2,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/13-Black-Bean-Sauce-Roasted-Pork-Rice.png",
+              "source_url": "https://ucarecdn.com/eaad0a1f-19fa-4722-9cae-6bf2db23493b/",
+              "width": 402,
+              "height": 402,
+              "format": "PNG",
+              "bytes": 316359,
+              "sha256": "5a72bb1c474dc63a2d1366e60abae881976ad2bf4b1683f2875321a8b2a0e3a2"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602079badb3f4019bb16962e03438",
+          "category": "RICE",
+          "number_in_category": 14,
+          "name": "Spring Onion Sliced Beef Rice | 姜葱牛肉饭",
+          "english_name": "Spring Onion Sliced Beef Rice",
+          "chinese_name": "姜葱牛肉饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.09,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/14-Spring-Onion-Sliced-Beef-Rice.png",
+              "source_url": "https://ucarecdn.com/5e91ea4e-d23f-4cdc-9057-50851f592acd/",
+              "width": 224,
+              "height": 224,
+              "format": "PNG",
+              "bytes": 103533,
+              "sha256": "f04b4f770b01739bb758019e3e4b1c0ba76fedd5a6218675405dfc4c48f49b49"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602079badb3f4019bb169b13234d6",
+          "category": "RICE",
+          "number_in_category": 15,
+          "name": "Spring Onion Sliced Fish Rice | 姜葱鱼片饭",
+          "english_name": "Spring Onion Sliced Fish Rice",
+          "chinese_name": "姜葱鱼片饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 12.09,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/15-Spring-Onion-Sliced-Fish-Rice.png",
+              "source_url": "https://ucarecdn.com/c7d34324-fe95-448d-b42a-8035b7973c97/",
+              "width": 366,
+              "height": 366,
+              "format": "PNG",
+              "bytes": 252876,
+              "sha256": "8e85f3c4263092d0c565962bf3f01cdc058b280ab53f9bfb9e408792bd440191"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602079badb3f4019bb16ab80d3697",
+          "category": "RICE",
+          "number_in_category": 16,
+          "name": "Spring Onion Sliced Pork Rice | 姜葱猪肉饭",
+          "english_name": "Spring Onion Sliced Pork Rice",
+          "chinese_name": "姜葱猪肉饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 11.44,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/16-Spring-Onion-Sliced-Pork-Rice.png",
+              "source_url": "https://ucarecdn.com/3645f4e3-a645-4564-98ee-4e899f892078/",
+              "width": 358,
+              "height": 358,
+              "format": "PNG",
+              "bytes": 252667,
+              "sha256": "d1de9c49c2171dfe6a16d602a72dbe187105fe9165340bfa33751ba7b54cb1b1"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818c6376b492600176ba36308d1f0e",
+          "category": "RICE",
+          "number_in_category": 17,
+          "name": "Rice/白米饭",
+          "english_name": "Rice",
+          "chinese_name": "白米饭",
+          "variants": [
+            {
+              "name": "",
+              "price_sgd": 2,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "09-RICE/17-Rice.png",
+              "source_url": "https://ucarecdn.com/3e730c75-90a8-49f5-ad78-8f0be36ad85f/",
+              "width": 525,
+              "height": 485,
+              "format": "PNG",
+              "bytes": 343457,
+              "sha256": "64e9d8193537b60cb53a1340b724b3450d0f69e0c5e73ec57d51dc5a4620a3e8"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "NOODLE",
+      "folder": "10-NOODLE",
+      "source_category_id": "8a818ef27e8ae90f017e8b8ade62429e",
+      "items": [
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8addeb426d",
+          "category": "NOODLE",
+          "number_in_category": 1,
+          "name": "Big Prawns Hor Fun | 大虾滑蛋河粉",
+          "english_name": "Big Prawns Hor Fun",
+          "chinese_name": "大虾滑蛋河粉",
+          "variants": [
+            {
+              "name": "Small ( 小）",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium (中）",
+              "price_sgd": 52.7,
+              "options": []
+            },
+            {
+              "name": "Large ( 大）",
+              "price_sgd": 79.4,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "10-NOODLE/01-Big-Prawns-Hor-Fun.png",
+              "source_url": "https://ucarecdn.com/9a0263ba-c404-4e16-9348-23d7859c3842/",
+              "width": 356,
+              "height": 237,
+              "format": "PNG",
+              "bytes": 199029,
+              "sha256": "baf6ee7702297bbdadcc93691d7deea4e60c8eddef7cdc6f88962f4b8ab12923"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade4f4299",
+          "category": "NOODLE",
+          "number_in_category": 2,
+          "name": "Big Prawns Crispy Noodle | 大虾滑蛋生面",
+          "english_name": "Big Prawns Crispy Noodle",
+          "chinese_name": "大虾滑蛋生面",
+          "variants": [
+            {
+              "name": "Small (小）",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium ( 中）",
+              "price_sgd": 52.7,
+              "options": []
+            },
+            {
+              "name": "Large (大）",
+              "price_sgd": 79.4,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "10-NOODLE/02-Big-Prawns-Crispy-Noodle.png",
+              "source_url": "https://ucarecdn.com/f34de575-832a-45be-b13a-ac079445c60a/",
+              "width": 464,
+              "height": 464,
+              "format": "PNG",
+              "bytes": 478769,
+              "sha256": "e571a3ff221f008e4cb5eefc6b959592897308aca6615df698173fa5968ba635"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade12427c",
+          "category": "NOODLE",
+          "number_in_category": 3,
+          "name": "Big Prawns Bee Hoon Soup | 大虾粗米粉汤",
+          "english_name": "Big Prawns Bee Hoon Soup",
+          "chinese_name": "大虾粗米粉汤",
+          "variants": [
+            {
+              "name": "Small (小）",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium ( 中）",
+              "price_sgd": 52.7,
+              "options": []
+            },
+            {
+              "name": "Large (大）",
+              "price_sgd": 79.4,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Please choose 1",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Spicy",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Non-spicy",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/03-Big-Prawns-Bee-Hoon-Soup.png",
+              "source_url": "https://ucarecdn.com/119e29f0-48f0-4069-b199-1dff8325d009/",
+              "width": 5981,
+              "height": 4260,
+              "format": "PNG",
+              "bytes": 1707628,
+              "sha256": "c86085002340408179ef46c97528a45e4d4220013ea29894acf295fa6e67fc1e"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade5b429d",
+          "category": "NOODLE",
+          "number_in_category": 4,
+          "name": "Black Bean Fish Meat Braised Bee Hoon/Hor Fun | 豉汁鱼鸡闷米粉/河粉-",
+          "english_name": "Black Bean Fish Meat Braised Bee Hoon/Hor Fun",
+          "chinese_name": "豉汁鱼鸡闷米粉/河粉-",
+          "variants": [
+            {
+              "name": "Medium(中)",
+              "price_sgd": 26.7,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 40.3,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Hor Fun/Bee Hoon",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Hor Fun 河粉",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Bee Hoon  米粉",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/04-Black-Bean-Fish-Meat-Braised-Bee-Hoon-Hor-Fun.png",
+              "source_url": "https://ucarecdn.com/3f0ec630-dfb6-4857-b515-ac2e5add5621/",
+              "width": 397,
+              "height": 264,
+              "format": "PNG",
+              "bytes": 230848,
+              "sha256": "a69f2bb86bf69a0cd6ffd39bc690f150b4335af0011f12c324ef13bbd668f51a"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8addf74272",
+          "category": "NOODLE",
+          "number_in_category": 5,
+          "name": "Crispy Noodle Surface With Shrimp Omelette | 黄布虾球生面",
+          "english_name": "Crispy Noodle Surface With Shrimp Omelette",
+          "chinese_name": "黄布虾球生面",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 18.6,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 37,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 56,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "10-NOODLE/05-Crispy-Noodle-Surface-With-Shrimp-Omelette.png",
+              "source_url": "https://ucarecdn.com/0e60a8c7-e703-465e-b0e3-e7c3ea016c85/",
+              "width": 545,
+              "height": 545,
+              "format": "PNG",
+              "bytes": 509627,
+              "sha256": "a1e4de2661690a8c440d45466fa4911b8c0a82f68394bbc20240546c219ef5ee"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade054277",
+          "category": "NOODLE",
+          "number_in_category": 6,
+          "name": "Sliced Fish Hor Fun With Bean Sprout | 生捞河粉",
+          "english_name": "Sliced Fish Hor Fun With Bean Sprout",
+          "chinese_name": "生捞河粉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 11.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 22.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 34.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "10-NOODLE/06-Sliced-Fish-Hor-Fun-With-Bean-Sprout.png",
+              "source_url": "https://ucarecdn.com/92d9f541-3833-452f-b38d-bfab3bb7c469/",
+              "width": 449,
+              "height": 449,
+              "format": "PNG",
+              "bytes": 386759,
+              "sha256": "639cf55272178fcea6b320df3cdff64a59cc750421b65d817a0046b852dc68a8"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade414294",
+          "category": "NOODLE",
+          "number_in_category": 7,
+          "name": "Black Bean/Dry Beef Hor Fun | 豉汁/干炒牛肉河",
+          "english_name": "Black Bean/Dry Beef Hor Fun",
+          "chinese_name": "豉汁/干炒牛肉河",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 24.1,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 36.4,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Black Bean / Dry",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Black Bean  鼓汁",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Dry 干炒",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/07-Black-Bean-Dry-Beef-Hor-Fun-photo-01.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanDryBeefHorFunbe3c97.jpg",
+              "width": 1440,
+              "height": 1078,
+              "format": "JPEG",
+              "bytes": 218580,
+              "sha256": "277e16a6b517f66e8f2d0a74fc77a8a7246bdc8d8bc8a54e8d12cc8678e8fde7"
+            },
+            {
+              "file": "10-NOODLE/07-Black-Bean-Dry-Beef-Hor-Fun-photo-02.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanDryBeefHorFun4d1521.jpg",
+              "width": 1440,
+              "height": 1077,
+              "format": "JPEG",
+              "bytes": 202174,
+              "sha256": "9f729fa6bcb74e292f7b7e39c61208bae904682e4c6242d86f3d64ba059c6fbd"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade1d4282",
+          "category": "NOODLE",
+          "number_in_category": 8,
+          "name": "Seafood & Pork Hor Fun / Bee Hoon | 滑蛋 什锦河粉 /米粉",
+          "english_name": "Seafood & Pork Hor Fun / Bee Hoon",
+          "chinese_name": "滑蛋 什锦河粉 /米粉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 30.6,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Hor Fun/Bee Hoon",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Hor Fun 河粉",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Bee Hoon  米粉",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/08-Seafood-Pork-Hor-Fun-Bee-Hoon.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/SeafoodPorkHorFunBeeHoon520cf2.jpg",
+              "width": 1440,
+              "height": 1042,
+              "format": "JPEG",
+              "bytes": 166091,
+              "sha256": "5898e8437b69ddf89ba9b143150014f9f700d7d20bec389491d6b47eaef8bc37"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade284288",
+          "category": "NOODLE",
+          "number_in_category": 9,
+          "name": "Fish Meat Bee Hoon Soup | 鱼鸡粗米粉汤",
+          "english_name": "Fish Meat Bee Hoon Soup",
+          "chinese_name": "鱼鸡粗米粉汤",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 13.4,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 27.3,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 40.3,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Fish Meat/Fish Head",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Fish Meat  鱼肉",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Fish Head  鱼头",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/09-Fish-Meat-Bee-Hoon-Soup.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/FishMeatBeeHoonSoupe5dd06.jpg",
+              "width": 1440,
+              "height": 1029,
+              "format": "JPEG",
+              "bytes": 142703,
+              "sha256": "116762e8ef96a7b3950882ad6c660b52462389846810b2563088bcecc8da098e"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ef27e8ae90f017e8b8ade35428e",
+          "category": "NOODLE",
+          "number_in_category": 10,
+          "name": "Stir Fried Dry Bee Hoon/ HK Noodle | 新州米粉 /香港面",
+          "english_name": "Stir Fried Dry Bee Hoon/ HK Noodle",
+          "chinese_name": "新州米粉 /香港面",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 30.6,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Dry Bee Hoon/HK Noodle",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Dry Bee Hoon 干米粉",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "HK Noodle  香港面",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/10-Stir-Fried-Dry-Bee-Hoon-HK-Noodle.png",
+              "source_url": "https://ucarecdn.com/54c74a9a-d35f-4688-b4c8-de5780c0d485/",
+              "width": 541,
+              "height": 547,
+              "format": "PNG",
+              "bytes": 589901,
+              "sha256": "c2a76b7e65683ffa5aeb5b678395d071aa83447ddbb1e2864ed2d6c9fbcc7dcc"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8190d67f9012a2017f917b9b831cf1",
+          "category": "NOODLE",
+          "number_in_category": 11,
+          "name": "Fish Head/Sliced Fish Bee Hoon Soup | 鱼头/鱼片粗米粉汤",
+          "english_name": "Fish Head/Sliced Fish Bee Hoon Soup",
+          "chinese_name": "鱼头/鱼片粗米粉汤",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 22.1,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 32.5,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of  Fish Head / Sliced Fish",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Fish Head  鱼头",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Sliced Fish  鱼片",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/11-Fish-Head-Sliced-Fish-Bee-Hoon-Soup-photo-01.png",
+              "source_url": "https://ucarecdn.com/73a46c50-ef7a-41eb-9b0c-d082d9d3c19e/",
+              "width": 437,
+              "height": 437,
+              "format": "PNG",
+              "bytes": 354957,
+              "sha256": "611a1db2032e2a21d25c9fb63485a774e9f76dc401bf34d69ca3358f696f5c0f"
+            },
+            {
+              "file": "10-NOODLE/11-Fish-Head-Sliced-Fish-Bee-Hoon-Soup-photo-02.png",
+              "source_url": "https://ucarecdn.com/9c5d6a8c-1ba5-4d6e-94d5-1c1832d8d16c/",
+              "width": 414,
+              "height": 414,
+              "format": "PNG",
+              "bytes": 315685,
+              "sha256": "f074ce904393123b9db591148053aa27fcaecdffea15af396990f5ee4bb0a23b"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818f5580fd9048018100a9412e4a32",
+          "category": "NOODLE",
+          "number_in_category": 12,
+          "name": "Black Bean Sliced Fish Bee Hoon/Hor Fun | 鼓汁鱼片米粉/河粉",
+          "english_name": "Black Bean Sliced Fish Bee Hoon/Hor Fun",
+          "chinese_name": "鼓汁鱼片米粉/河粉",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 11.5,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 22.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 33.2,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Hor Fun/Bee Hoon",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Hor Fun 河粉",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Bee Hoon  米粉",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/12-Black-Bean-Sliced-Fish-Bee-Hoon-Hor-Fun.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BlackBeanSlicedFishHorFunb7fc4d.jpg",
+              "width": 1440,
+              "height": 1044,
+              "format": "JPEG",
+              "bytes": 168176,
+              "sha256": "f48d8187df8d62b06b8de85b9ce3269100b302b5cd8fa099421412fd6301de1d"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818fef812be98e01812f208ff43be0",
+          "category": "NOODLE",
+          "number_in_category": 13,
+          "name": "Seafood & Pork Crispy Noodle |滑蛋 什锦生面",
+          "english_name": "Seafood & Pork Crispy Noodle",
+          "chinese_name": "滑蛋 什锦生面",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 21.5,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 32.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "10-NOODLE/13-Seafood-Pork-Crispy-Noodle.png",
+              "source_url": "https://ucarecdn.com/410a6eb0-8feb-4a48-8cc2-a0629c5159c7/",
+              "width": 449,
+              "height": 449,
+              "format": "PNG",
+              "bytes": 431949,
+              "sha256": "89103aad49c7a8c74cd2289227c2e47a0b305b67eb9bc3fe904f93c28c7d2eb2"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602449badb70c019bb15e571a1a32",
+          "category": "NOODLE",
+          "number_in_category": 14,
+          "name": "Moonlight Hor Fun | 月光河粉",
+          "english_name": "Moonlight Hor Fun",
+          "chinese_name": "月光河粉",
+          "variants": [
+            {
+              "name": "Small (小)",
+              "price_sgd": 11.44,
+              "options": []
+            },
+            {
+              "name": "Medium (中)",
+              "price_sgd": 22.75,
+              "options": []
+            },
+            {
+              "name": "Large (大)",
+              "price_sgd": 34.45,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "10-NOODLE/14-Moonlight-Hor-Fun.png",
+              "source_url": "https://ucarecdn.com/da2e980d-1904-4294-b028-6dcef5729dc3/",
+              "width": 510,
+              "height": 339,
+              "format": "PNG",
+              "bytes": 339544,
+              "sha256": "baad5851622e8fbb8a5bd8d2ab68ac74292a0ccf57e430892c3210c42155ffd8"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602c79bb4adb4019bb52bd98a49b3",
+          "category": "NOODLE",
+          "number_in_category": 15,
+          "name": "Black Bean Assorted Seafood & Pork Bee Hoon/Hor Fun | 豉汁什锦米粉/河粉",
+          "english_name": "Black Bean Assorted Seafood & Pork Bee Hoon/Hor Fun",
+          "chinese_name": "豉汁什锦米粉/河粉",
+          "variants": [
+            {
+              "name": "Small (小)",
+              "price_sgd": 10.2,
+              "options": []
+            },
+            {
+              "name": "Medium (中)",
+              "price_sgd": 20.2,
+              "options": []
+            },
+            {
+              "name": "Large (大)",
+              "price_sgd": 30.6,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of Hor Fun/Bee Hoon",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Hor Fun 河粉",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Bee Hoon  米粉",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "10-NOODLE/15-Black-Bean-Assorted-Seafood-Pork-Bee-Hoon-Hor-Fun-photo-01.png",
+              "source_url": "https://ucarecdn.com/373af7d7-b07e-4bca-9a18-d7c89e07e0cb/",
+              "width": 477,
+              "height": 477,
+              "format": "PNG",
+              "bytes": 477819,
+              "sha256": "8e34e164958d91bb7a6cde828457aa5eac1bd2310f1a1a9197fa2725413816a5"
+            },
+            {
+              "file": "10-NOODLE/15-Black-Bean-Assorted-Seafood-Pork-Bee-Hoon-Hor-Fun-photo-02.png",
+              "source_url": "https://ucarecdn.com/20f712d1-8db6-41ad-a772-508e96cbb408/",
+              "width": 424,
+              "height": 424,
+              "format": "PNG",
+              "bytes": 375298,
+              "sha256": "0b55edd76868f25b697303a2300e1bda743adf1ff14997b65d25751fbdaf942b"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "SOUP",
+      "folder": "11-SOUP",
+      "source_category_id": "8a818ecb75957f15017596399e96379f",
+      "items": [
+        {
+          "source_item_id": "8a818cec75957f0f0175965339b84778",
+          "category": "SOUP",
+          "number_in_category": 1,
+          "name": "Bittergourd Soup With Seafoods & Pork | 什锦凉瓜汤",
+          "english_name": "Bittergourd Soup With Seafoods & Pork",
+          "chinese_name": "什锦凉瓜汤",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.3,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.9,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 30.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "11-SOUP/01-Bittergourd-Soup-With-Seafoods-Pork.png",
+              "source_url": "https://ucarecdn.com/bdd8e959-071e-4ebc-99c4-b7cf3a91e253/",
+              "width": 347,
+              "height": 347,
+              "format": "PNG",
+              "bytes": 210171,
+              "sha256": "5afc1651d63def0a4384315fa741e40099ac204ccf8f80d0e250ded9421730b7"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818d1b7f697370017f69e6a05f25fc",
+          "category": "SOUP",
+          "number_in_category": 2,
+          "name": "Fish Meat Soup | 鱼鸡汤",
+          "english_name": "Fish Meat Soup",
+          "chinese_name": "鱼鸡汤",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 13.4,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 27.3,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 40.3,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "11-SOUP/02-Fish-Meat-Soup.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/FishMeatSoupf39820.jpg",
+              "width": 1440,
+              "height": 1014,
+              "format": "JPEG",
+              "bytes": 116110,
+              "sha256": "1c295ca29a24bbcb1aa0a1d232c40087b52f7d356ecae490ac1f0738824bf423"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191bf75957f8f017596541c915e62",
+          "category": "SOUP",
+          "number_in_category": 3,
+          "name": "Sliced Fish/Fish Head Soup | 鱼片/鱼头汤",
+          "english_name": "Sliced Fish/Fish Head Soup",
+          "chinese_name": "鱼片/鱼头汤",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 22.1,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 32.5,
+              "options": []
+            }
+          ],
+          "options": [
+            {
+              "name": "Choice of  Fish Head / Sliced Fish",
+              "minimum_quantity": 1,
+              "maximum_quantity": 1,
+              "choices": [
+                {
+                  "name": "Fish Head  鱼头",
+                  "price_sgd": 0,
+                  "options": []
+                },
+                {
+                  "name": "Sliced Fish  鱼片",
+                  "price_sgd": 0,
+                  "options": []
+                }
+              ]
+            }
+          ],
+          "photos": [
+            {
+              "file": "11-SOUP/03-Sliced-Fish-Fish-Head-Soup.jpg",
+              "source_url": "https://ucarecdn.com/0af1da77-be52-48c0-a0c6-473252052d77/-/preview/",
+              "width": 404,
+              "height": 404,
+              "format": "JPEG",
+              "bytes": 22678,
+              "sha256": "2d818091238215e3680f554297913e009b286c450397c8f904c11a25a869a8d2"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ecb75957f1501759655f0e34953",
+          "category": "SOUP",
+          "number_in_category": 4,
+          "name": "Salted Vegetable Tofu Soup | 什锦咸菜豆腐汤",
+          "english_name": "Salted Vegetable Tofu Soup",
+          "chinese_name": "什锦咸菜豆腐汤",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 30.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "11-SOUP/04-Salted-Vegetable-Tofu-Soup.png",
+              "source_url": "https://ucarecdn.com/84806e8a-f626-436d-bfac-e6309f9ce637/",
+              "width": 364,
+              "height": 364,
+              "format": "PNG",
+              "bytes": 231685,
+              "sha256": "511faae90b01b6aa8049f7fff7b446be5804c8c9896d7fc4a5b1d6b18a931155"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175965672485d3b",
+          "category": "SOUP",
+          "number_in_category": 5,
+          "name": "Big Prawns Soup | 大虾汤",
+          "english_name": "Big Prawns Soup",
+          "chinese_name": "大虾汤",
+          "variants": [
+            {
+              "name": "Small (小）",
+              "price_sgd": 26.5,
+              "options": []
+            },
+            {
+              "name": "Medium (中）",
+              "price_sgd": 52.7,
+              "options": []
+            },
+            {
+              "name": "Large (大）",
+              "price_sgd": 79.4,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "11-SOUP/05-Big-Prawns-Soup.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/BigPrawnsSoup53a82a.jpg",
+              "width": 1440,
+              "height": 1037,
+              "format": "JPEG",
+              "bytes": 113111,
+              "sha256": "e1d864494e825f1bccc87544f40b05e227c24c5b7d4b404a072ec24dbf40882a"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191ed80f150550180f1e1991b2205",
+          "category": "SOUP",
+          "number_in_category": 6,
+          "name": "Spinach Soup | 苋菜汤",
+          "english_name": "Spinach Soup",
+          "chinese_name": "苋菜汤",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 10.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 30.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "11-SOUP/06-Spinach-Soup.png",
+              "source_url": "https://ucarecdn.com/2bdaf5ae-3032-4e66-aa88-b741c92c32c6/",
+              "width": 364,
+              "height": 364,
+              "format": "PNG",
+              "bytes": 241557,
+              "sha256": "37829b4235e8fa8e5180bf46369cb5e2635e9ac3e70306a5f100091958662c33"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8aa602c59e7116f7019e723ce4882d1f",
+          "category": "SOUP",
+          "number_in_category": 7,
+          "name": "Fish Maw Soup | 鱼鳔羹",
+          "english_name": "Fish Maw Soup",
+          "chinese_name": "鱼鳔羹",
+          "variants": [
+            {
+              "name": "Medium (中）",
+              "price_sgd": 89.7,
+              "options": []
+            },
+            {
+              "name": "Large (大）",
+              "price_sgd": 115.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "11-SOUP/07-Fish-Maw-Soup.png",
+              "source_url": "https://ucarecdn.com/88e2d587-c891-4ac9-8b1a-51f24ca9464e/",
+              "width": 408,
+              "height": 406,
+              "format": "PNG",
+              "bytes": 295419,
+              "sha256": "e93305e11ebbf99b5640e2d4ad00e2b7fd13d4aae9349c4394c94dd77e65b3a5"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "TOFU",
+      "folder": "12-TOFU",
+      "source_category_id": "8a81904d7e8adf08017e8b8c232f45ee",
+      "items": [
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b8c232d45ed",
+          "category": "TOFU",
+          "number_in_category": 1,
+          "name": "Claypot Yong Tau Foo | 巧手三宝煲",
+          "english_name": "Claypot Yong Tau Foo",
+          "chinese_name": "巧手三宝煲",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 23.8,
+              "options": []
+            },
+            {
+              "name": "Medium(中）",
+              "price_sgd": 35.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 47.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "12-TOFU/01-Claypot-Yong-Tau-Foo.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/ClaypotYongTauFoo47e8cd.jpg",
+              "width": 1440,
+              "height": 1073,
+              "format": "JPEG",
+              "bytes": 191978,
+              "sha256": "b5036a48db9106be8457c35103b8d32cea7e628eeb0ecbebe64a8ffecdcdcb8e"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b8c231945e3",
+          "category": "TOFU",
+          "number_in_category": 2,
+          "name": "Homemade Tofu with Minced Pork | 家乡豆腐",
+          "english_name": "Homemade Tofu with Minced Pork",
+          "chinese_name": "家乡豆腐",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 16.1,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 31.9,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "12-TOFU/02-Homemade-Tofu-with-Minced-Pork.png",
+              "source_url": "https://ucarecdn.com/43356430-e76a-4966-a427-71c6a80f131c/",
+              "width": 6207,
+              "height": 4346,
+              "format": "PNG",
+              "bytes": 1532806,
+              "sha256": "45d5cbd75ba52fae00cb482057ebd11c449a77e55ee52dbe0bc99a07182fada8"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b8c22f845d7",
+          "category": "TOFU",
+          "number_in_category": 3,
+          "name": "Braised Tofu with Roast Pork | 红烧豆腐",
+          "english_name": "Braised Tofu with Roast Pork",
+          "chinese_name": "红烧豆腐",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 16.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 24,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "12-TOFU/03-Braised-Tofu-with-Roast-Pork.png",
+              "source_url": "https://ucarecdn.com/365e48fb-b05a-47e3-a6b7-2bf5f9071e77/",
+              "width": 362,
+              "height": 362,
+              "format": "PNG",
+              "bytes": 249401,
+              "sha256": "157e8996fa833e00f043e65c681ea3949e13ce2e4b04a78885a80ce490b90899"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b8c232345e8",
+          "category": "TOFU",
+          "number_in_category": 4,
+          "name": "Prawns Balls Braised Tofu | 虾球豆腐",
+          "english_name": "Prawns Balls Braised Tofu",
+          "chinese_name": "虾球豆腐",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 25.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 37.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 50.2,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "12-TOFU/04-Prawns-Balls-Braised-Tofu--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b8c230245db",
+          "category": "TOFU",
+          "number_in_category": 5,
+          "name": "Braised Tofu with Sea Cucumber | 豆腐海参煲",
+          "english_name": "Braised Tofu with Sea Cucumber",
+          "chinese_name": "豆腐海参煲",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 42,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 84,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "12-TOFU/05-Braised-Tofu-with-Sea-Cucumber--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8a81904d7e8adf08017e8b8c230f45df",
+          "category": "TOFU",
+          "number_in_category": 6,
+          "name": "Hotplate Tofu | 铁板豆腐",
+          "english_name": "Hotplate Tofu",
+          "chinese_name": "铁板豆腐",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 16.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 24,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "12-TOFU/06-Hotplate-Tofu.png",
+              "source_url": "https://ucarecdn.com/15e2335e-2cf8-4b7a-a408-be0f4bffc7e2/",
+              "width": 408,
+              "height": 408,
+              "format": "PNG",
+              "bytes": 310575,
+              "sha256": "62456b0fff2562104e64e638d72317d0584bece514c88ecae55181311d166265"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818fca8118b24701811a7b646a160f",
+          "category": "TOFU",
+          "number_in_category": 7,
+          "name": "Golden Beancurds | 黄金豆腐",
+          "english_name": "Golden Beancurds",
+          "chinese_name": "黄金豆腐",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 14.9,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 29.3,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "12-TOFU/07-Golden-Beancurds.jpg",
+              "source_url": "https://s3-ap-southeast-1.amazonaws.com/v3-live.image.oddle.me/product/GoldenBeancurds198556.jpg",
+              "width": 1440,
+              "height": 948,
+              "format": "JPEG",
+              "bytes": 143361,
+              "sha256": "9c8c2766681360b09700e73207f96eb3e4146c40c1097d1e4695d9c5d15cd2f5"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "EGGS",
+      "folder": "13-EGGS",
+      "source_category_id": "8a8191bf75957f8f01759639a8fa47d3",
+      "items": [
+        {
+          "source_item_id": "8a818cec75957f0f0175964792554014",
+          "category": "EGGS",
+          "number_in_category": 1,
+          "name": "Fu Rong Omelette | 芙蓉煎蛋",
+          "english_name": "Fu Rong Omelette",
+          "chinese_name": "芙蓉煎蛋",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.2,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 17.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "13-EGGS/01-Fu-Rong-Omelette.png",
+              "source_url": "https://ucarecdn.com/b91c1ce7-1c3a-439c-ab7b-25d69ccad47e/",
+              "width": 408,
+              "height": 408,
+              "format": "PNG",
+              "bytes": 362158,
+              "sha256": "a5c1510a52b1c90b59179cce1fe635957faca27f89ec23585bd3ff095940bc04"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac01759648bda25205",
+          "category": "EGGS",
+          "number_in_category": 2,
+          "name": "Prawns Omelette | 虾仁煎蛋",
+          "english_name": "Prawns Omelette",
+          "chinese_name": "虾仁煎蛋",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 16,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 24.1,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "13-EGGS/02-Prawns-Omelette.png",
+              "source_url": "https://ucarecdn.com/b5a57347-e1a9-422d-ad6e-fad331cb2c23/",
+              "width": 454,
+              "height": 454,
+              "format": "PNG",
+              "bytes": 446348,
+              "sha256": "2315cf2b05fe36b334bdfb26fd28f5b09a76f0d481d74588fb067dfe3da840b9"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191bf75957f8f017596492fc0558e",
+          "category": "EGGS",
+          "number_in_category": 3,
+          "name": "Minced Pork Omelette | 肉碎煎蛋",
+          "english_name": "Minced Pork Omelette",
+          "chinese_name": "肉碎煎蛋",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 17.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "13-EGGS/03-Minced-Pork-Omelette.png",
+              "source_url": "https://ucarecdn.com/111addfa-fcea-4a32-a89b-2955b930f428/",
+              "width": 470,
+              "height": 470,
+              "format": "PNG",
+              "bytes": 453024,
+              "sha256": "c868ba536a20ee1f5e48a128c7d0656b25f231c1a64a8300827dd87a03c8ce18"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818ecb75957f15017596498bbf4229",
+          "category": "EGGS",
+          "number_in_category": 4,
+          "name": "Combination Of 3 Steam Eggs | 三王蒸蛋",
+          "english_name": "Combination Of 3 Steam Eggs",
+          "chinese_name": "三王蒸蛋",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 17.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "13-EGGS/04-Combination-Of-3-Steam-Eggs.png",
+              "source_url": "https://ucarecdn.com/4e9e5645-13f8-4564-a66b-e05f4b8c539c/",
+              "width": 445,
+              "height": 445,
+              "format": "PNG",
+              "bytes": 368686,
+              "sha256": "63b0fee551fefd1455be8c3f81abd54c85de437372866a9efb2a92892e9631d4"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8192b77932a888017933623f404a04",
+          "category": "EGGS",
+          "number_in_category": 5,
+          "name": "Minced Pork Steam Eggs | 蒸肉碎蛋",
+          "english_name": "Minced Pork Steam Eggs",
+          "chinese_name": "蒸肉碎蛋",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 17.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "13-EGGS/05-Minced-Pork-Steam-Eggs.png",
+              "source_url": "https://ucarecdn.com/ba7cd454-0ef0-4a7d-8728-7fcc07d50594/",
+              "width": 468,
+              "height": 468,
+              "format": "PNG",
+              "bytes": 411051,
+              "sha256": "d38c98cf11c0f407fe55d415f0fc0b2989776588ac2cce12e38110920a74c426"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8197ae82767d96018276ec7b1f3e5c",
+          "category": "EGGS",
+          "number_in_category": 6,
+          "name": "Preserved Radish Omelette | 菜脯蛋",
+          "english_name": "Preserved Radish Omelette",
+          "chinese_name": "菜脯蛋",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 12.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 17.6,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "13-EGGS/06-Preserved-Radish-Omelette.png",
+              "source_url": "https://ucarecdn.com/98e382f8-97b1-4751-b480-56c7be093569/",
+              "width": 443,
+              "height": 443,
+              "format": "PNG",
+              "bytes": 433885,
+              "sha256": "832f2fac4d1069d595a63c2efbafa3e828a6a5ec6e7a17ece30461408b34c533"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    },
+    {
+      "name": "VEGETABLE",
+      "folder": "14-VEGETABLE",
+      "source_category_id": "8a818cec75957f0f01759639b415378d",
+      "items": [
+        {
+          "source_item_id": "8a818cec75957f0f0175964c871d4418",
+          "category": "VEGETABLE",
+          "number_in_category": 1,
+          "name": "Stir Fried Kai Lan With Garlic | 蒜茸炒芥兰",
+          "english_name": "Stir Fried Kai Lan With Garlic",
+          "chinese_name": "蒜茸炒芥兰",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 13.4,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.3,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 26.8,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/01-Stir-Fried-Kai-Lan-With-Garlic.png",
+              "source_url": "https://ucarecdn.com/6dbef44e-a954-4170-a8fc-075ad66788e0/",
+              "width": 462,
+              "height": 468,
+              "format": "PNG",
+              "bytes": 392337,
+              "sha256": "3c6a079db6e727a2caa3d773a29b47395033a22f2bfcc7e9ef9bb965e742eaf6"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175964cf84b55bb",
+          "category": "VEGETABLE",
+          "number_in_category": 2,
+          "name": "Boiled Chinese Lettuce With Light Sauces | 白灼生菜",
+          "english_name": "Boiled Chinese Lettuce With Light Sauces",
+          "chinese_name": "白灼生菜",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 13.4,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 26.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "14-VEGETABLE/02-Boiled-Chinese-Lettuce-With-Light-Sauces--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175964e73dd570e",
+          "category": "VEGETABLE",
+          "number_in_category": 3,
+          "name": "Romaine Lettuce Stir Fried Fermented Beancurd | 腐乳炒麦菜",
+          "english_name": "Romaine Lettuce Stir Fried Fermented Beancurd",
+          "chinese_name": "腐乳炒麦菜",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 13.4,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 26.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/03-Romaine-Lettuce-Stir-Fried-Fermented-Beancurd.png",
+              "source_url": "https://ucarecdn.com/9e5e5561-6866-4ec5-b495-7cfff32e7ac9/",
+              "width": 429,
+              "height": 429,
+              "format": "PNG",
+              "bytes": 376448,
+              "sha256": "b68213015d749f34488b92bdd8fb06b6b6dd456cf73ccdf0392b54e085693c9f"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818cec75957f0f0175964f28f6454d",
+          "category": "VEGETABLE",
+          "number_in_category": 4,
+          "name": "Stir Fried Broccoli With Oyster Sauce | 西兰花炒蚝油",
+          "english_name": "Stir Fried Broccoli With Oyster Sauce",
+          "chinese_name": "西兰花炒蚝油",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 14.7,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 22.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 29.1,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/04-Stir-Fried-Broccoli-With-Oyster-Sauce.png",
+              "source_url": "https://ucarecdn.com/063040fb-454f-46a0-bdb1-7810310ed27c/",
+              "width": 424,
+              "height": 418,
+              "format": "PNG",
+              "bytes": 295070,
+              "sha256": "4018e30a4915411f46a4b7ed6afaf812580d5061d16a6ccf4251aaf7885f83bd"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175964f98ac57e6",
+          "category": "VEGETABLE",
+          "number_in_category": 5,
+          "name": "Bean Sprout Stir Fried With Salted Fish | 银芽炒咸鱼",
+          "english_name": "Bean Sprout Stir Fried With Salted Fish",
+          "chinese_name": "银芽炒咸鱼",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 17.3,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 26.7,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 34.5,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/05-Bean-Sprout-Stir-Fried-With-Salted-Fish.png",
+              "source_url": "https://ucarecdn.com/7ba462a8-cb8d-4a17-8bd2-e7559238db3f/",
+              "width": 547,
+              "height": 543,
+              "format": "PNG",
+              "bytes": 543222,
+              "sha256": "2722258f9ac5027204845834b57dffac5c89ac048a08248126246756fb7c0823"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac0175965078f9589a",
+          "category": "VEGETABLE",
+          "number_in_category": 6,
+          "name": "Claypot Brinjal With Minced Pork | 肉碎茄子煲",
+          "english_name": "Claypot Brinjal With Minced Pork",
+          "chinese_name": "肉碎茄子煲",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 16.1,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 24,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/06-Claypot-Brinjal-With-Minced-Pork.png",
+              "source_url": "https://ucarecdn.com/250ee69a-bed3-44ef-8baf-29fee8714b40/",
+              "width": 443,
+              "height": 443,
+              "format": "PNG",
+              "bytes": 416230,
+              "sha256": "8e2e027b2e44aacf404e302a3324d7ee80e03e326cf13f91aad90d5270e66e03"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818cdd8118bb8c018118e4114a0409",
+          "category": "VEGETABLE",
+          "number_in_category": 7,
+          "name": "Stir Fried Small Cabbage With Garlic | 蒜茸炒小白菜",
+          "english_name": "Stir Fried Small Cabbage With Garlic",
+          "chinese_name": "蒜茸炒小白菜",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 13.4,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 26.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/07-Stir-Fried-Small-Cabbage-With-Garlic.png",
+              "source_url": "https://ucarecdn.com/29c1096a-3ded-4813-83b6-49a5a999f4ae/",
+              "width": 416,
+              "height": 416,
+              "format": "PNG",
+              "bytes": 325274,
+              "sha256": "ce56da224ce2b1da89ab297bba59a8bfa8627e6818be9801c62fe4b17d12e951"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a8191e075943aac01759650c65d58f0",
+          "category": "VEGETABLE",
+          "number_in_category": 8,
+          "name": "Celery Stir Fried With Garlic | 蒜茸炒西芹",
+          "english_name": "Celery Stir Fried With Garlic",
+          "chinese_name": "蒜茸炒西芹",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 14.7,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 22.8,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 29.1,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [],
+          "photo_status": "not_provided_on_official_menu",
+          "missing_photo_note": "14-VEGETABLE/08-Celery-Stir-Fried-With-Garlic--PHOTO-NOT-AVAILABLE.txt"
+        },
+        {
+          "source_item_id": "8a818fca8118b24701811a724dc611e1",
+          "category": "VEGETABLE",
+          "number_in_category": 9,
+          "name": "Poached Chinese Spinach | 金银蛋苋菜",
+          "english_name": "Poached Chinese Spinach",
+          "chinese_name": "金银蛋苋菜",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 18.6,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 28,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/09-Poached-Chinese-Spinach.png",
+              "source_url": "https://ucarecdn.com/9d59fe45-c76a-4bee-ab0d-2c038d2404ca/",
+              "width": 341,
+              "height": 341,
+              "format": "PNG",
+              "bytes": 233357,
+              "sha256": "de6ea24cb4ec0c5361461131f2cfa8c296452cc82101e35f648b3328e4ae091e"
+            }
+          ],
+          "photo_status": "available"
+        },
+        {
+          "source_item_id": "8a818e8f811f749201811fa44ec809a3",
+          "category": "VEGETABLE",
+          "number_in_category": 10,
+          "name": "Stir Fried Kangkong With Sambal | 马来风光",
+          "english_name": "Stir Fried Kangkong With Sambal",
+          "chinese_name": "马来风光",
+          "variants": [
+            {
+              "name": "Small(小)",
+              "price_sgd": 13.4,
+              "options": []
+            },
+            {
+              "name": "Medium(中)",
+              "price_sgd": 20.2,
+              "options": []
+            },
+            {
+              "name": "Large(大)",
+              "price_sgd": 26.7,
+              "options": []
+            }
+          ],
+          "options": [],
+          "photos": [
+            {
+              "file": "14-VEGETABLE/10-Stir-Fried-Kangkong-With-Sambal.png",
+              "source_url": "https://ucarecdn.com/93417926-cc22-4f66-8316-72f4543393a0/",
+              "width": 554,
+              "height": 545,
+              "format": "PNG",
+              "bytes": 585212,
+              "sha256": "959be41cb0883f13a7bb3502fa891fec9330e669df7d0115be26bbec60bd8af9"
+            }
+          ],
+          "photo_status": "available"
+        }
+      ]
+    }
+  ]
+}
